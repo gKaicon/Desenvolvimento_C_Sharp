@@ -1,0 +1,7 @@
+D:\Users\0048609\Documents\Desenvolvimento_C_Sharp\Aula_Introdutoria\Aula_Introdutoria\bin\Debug\Aula_Introdutoria.exe.config
+D:\Users\0048609\Documents\Desenvolvimento_C_Sharp\Aula_Introdutoria\Aula_Introdutoria\bin\Debug\Aula_Introdutoria.exe
+D:\Users\0048609\Documents\Desenvolvimento_C_Sharp\Aula_Introdutoria\Aula_Introdutoria\bin\Debug\Aula_Introdutoria.pdb
+D:\Users\0048609\Documents\Desenvolvimento_C_Sharp\Aula_Introdutoria\Aula_Introdutoria\obj\Debug\Aula_Introdutoria.csproj.AssemblyReference.cache
+D:\Users\0048609\Documents\Desenvolvimento_C_Sharp\Aula_Introdutoria\Aula_Introdutoria\obj\Debug\Aula_Introdutoria.csproj.CoreCompileInputs.cache
+D:\Users\0048609\Documents\Desenvolvimento_C_Sharp\Aula_Introdutoria\Aula_Introdutoria\obj\Debug\Aula_Introdutoria.exe
+D:\Users\0048609\Documents\Desenvolvimento_C_Sharp\Aula_Introdutoria\Aula_Introdutoria\obj\Debug\Aula_Introdutoria.pdb

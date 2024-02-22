@@ -1,0 +1,7 @@
+D:\Users\0048609\Documents\Desenvolvimento_C_Sharp\Primeira_Atividade\Primeira_Atividade\bin\Debug\Primeira_Atividade.exe.config
+D:\Users\0048609\Documents\Desenvolvimento_C_Sharp\Primeira_Atividade\Primeira_Atividade\bin\Debug\Primeira_Atividade.exe
+D:\Users\0048609\Documents\Desenvolvimento_C_Sharp\Primeira_Atividade\Primeira_Atividade\bin\Debug\Primeira_Atividade.pdb
+D:\Users\0048609\Documents\Desenvolvimento_C_Sharp\Primeira_Atividade\Primeira_Atividade\obj\Debug\Primeira_Atividade.csproj.AssemblyReference.cache
+D:\Users\0048609\Documents\Desenvolvimento_C_Sharp\Primeira_Atividade\Primeira_Atividade\obj\Debug\Primeira_Atividade.csproj.CoreCompileInputs.cache
+D:\Users\0048609\Documents\Desenvolvimento_C_Sharp\Primeira_Atividade\Primeira_Atividade\obj\Debug\Primeira_Atividade.exe
+D:\Users\0048609\Documents\Desenvolvimento_C_Sharp\Primeira_Atividade\Primeira_Atividade\obj\Debug\Primeira_Atividade.pdb
