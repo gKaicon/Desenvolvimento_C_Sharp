@@ -46,7 +46,7 @@ namespace Primeira_Atividade
             for (int i = 0; i < 3; i++)
             {
                 Console.Write("Digite a {0}° nota: ", (i+1));
-                notas[i] = Convert.ToInt32(Console.ReadLine());
+                notas[i] = Convert.ToDouble(Console.ReadLine());
                 soma += notas[i];
             }
             soma /= 3;

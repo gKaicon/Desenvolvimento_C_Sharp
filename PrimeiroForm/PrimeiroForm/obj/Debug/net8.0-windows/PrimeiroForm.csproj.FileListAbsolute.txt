@@ -1,0 +1,17 @@
+D:\Users\0048609\Documents\Desenvolvimento_C_Sharp\PrimeiroForm\PrimeiroForm\bin\Debug\net8.0-windows\PrimeiroForm.exe
+D:\Users\0048609\Documents\Desenvolvimento_C_Sharp\PrimeiroForm\PrimeiroForm\bin\Debug\net8.0-windows\PrimeiroForm.deps.json
+D:\Users\0048609\Documents\Desenvolvimento_C_Sharp\PrimeiroForm\PrimeiroForm\bin\Debug\net8.0-windows\PrimeiroForm.runtimeconfig.json
+D:\Users\0048609\Documents\Desenvolvimento_C_Sharp\PrimeiroForm\PrimeiroForm\bin\Debug\net8.0-windows\PrimeiroForm.dll
+D:\Users\0048609\Documents\Desenvolvimento_C_Sharp\PrimeiroForm\PrimeiroForm\bin\Debug\net8.0-windows\PrimeiroForm.pdb
+D:\Users\0048609\Documents\Desenvolvimento_C_Sharp\PrimeiroForm\PrimeiroForm\obj\Debug\net8.0-windows\PrimeiroForm.Form1.resources
+D:\Users\0048609\Documents\Desenvolvimento_C_Sharp\PrimeiroForm\PrimeiroForm\obj\Debug\net8.0-windows\PrimeiroForm.csproj.GenerateResource.cache
+D:\Users\0048609\Documents\Desenvolvimento_C_Sharp\PrimeiroForm\PrimeiroForm\obj\Debug\net8.0-windows\PrimeiroForm.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\0048609\Documents\Desenvolvimento_C_Sharp\PrimeiroForm\PrimeiroForm\obj\Debug\net8.0-windows\PrimeiroForm.AssemblyInfoInputs.cache
+D:\Users\0048609\Documents\Desenvolvimento_C_Sharp\PrimeiroForm\PrimeiroForm\obj\Debug\net8.0-windows\PrimeiroForm.AssemblyInfo.cs
+D:\Users\0048609\Documents\Desenvolvimento_C_Sharp\PrimeiroForm\PrimeiroForm\obj\Debug\net8.0-windows\PrimeiroForm.csproj.CoreCompileInputs.cache
+D:\Users\0048609\Documents\Desenvolvimento_C_Sharp\PrimeiroForm\PrimeiroForm\obj\Debug\net8.0-windows\PrimeiroForm.sourcelink.json
+D:\Users\0048609\Documents\Desenvolvimento_C_Sharp\PrimeiroForm\PrimeiroForm\obj\Debug\net8.0-windows\PrimeiroForm.dll
+D:\Users\0048609\Documents\Desenvolvimento_C_Sharp\PrimeiroForm\PrimeiroForm\obj\Debug\net8.0-windows\refint\PrimeiroForm.dll
+D:\Users\0048609\Documents\Desenvolvimento_C_Sharp\PrimeiroForm\PrimeiroForm\obj\Debug\net8.0-windows\PrimeiroForm.pdb
+D:\Users\0048609\Documents\Desenvolvimento_C_Sharp\PrimeiroForm\PrimeiroForm\obj\Debug\net8.0-windows\PrimeiroForm.genruntimeconfig.cache
+D:\Users\0048609\Documents\Desenvolvimento_C_Sharp\PrimeiroForm\PrimeiroForm\obj\Debug\net8.0-windows\ref\PrimeiroForm.dll
