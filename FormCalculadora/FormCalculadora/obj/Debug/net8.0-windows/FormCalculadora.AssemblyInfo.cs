@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("PrimeiroForm")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("FormCalculadora")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
-[assembly: System.Reflection.AssemblyProductAttribute("PrimeiroForm")]
-[assembly: System.Reflection.AssemblyTitleAttribute("PrimeiroForm")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f3108d6ee8fcbf8c1748fc274dc834c77dd33b38")]
+[assembly: System.Reflection.AssemblyProductAttribute("FormCalculadora")]
+[assembly: System.Reflection.AssemblyTitleAttribute("FormCalculadora")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 [assembly: System.Runtime.Versioning.TargetPlatformAttribute("Windows7.0")]
 [assembly: System.Runtime.Versioning.SupportedOSPlatformAttribute("Windows7.0")]

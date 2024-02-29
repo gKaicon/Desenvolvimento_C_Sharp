@@ -1,0 +1,17 @@
+D:\Users\0048609\Documents\Desenvolvimento_C_Sharp\FormCalculadora\FormCalculadora\bin\Debug\net8.0-windows\FormCalculadora.exe
+D:\Users\0048609\Documents\Desenvolvimento_C_Sharp\FormCalculadora\FormCalculadora\bin\Debug\net8.0-windows\FormCalculadora.deps.json
+D:\Users\0048609\Documents\Desenvolvimento_C_Sharp\FormCalculadora\FormCalculadora\bin\Debug\net8.0-windows\FormCalculadora.runtimeconfig.json
+D:\Users\0048609\Documents\Desenvolvimento_C_Sharp\FormCalculadora\FormCalculadora\bin\Debug\net8.0-windows\FormCalculadora.dll
+D:\Users\0048609\Documents\Desenvolvimento_C_Sharp\FormCalculadora\FormCalculadora\bin\Debug\net8.0-windows\FormCalculadora.pdb
+D:\Users\0048609\Documents\Desenvolvimento_C_Sharp\FormCalculadora\FormCalculadora\obj\Debug\net8.0-windows\FormCalculadora.Form1.resources
+D:\Users\0048609\Documents\Desenvolvimento_C_Sharp\FormCalculadora\FormCalculadora\obj\Debug\net8.0-windows\FormCalculadora.csproj.GenerateResource.cache
+D:\Users\0048609\Documents\Desenvolvimento_C_Sharp\FormCalculadora\FormCalculadora\obj\Debug\net8.0-windows\FormCalculadora.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\0048609\Documents\Desenvolvimento_C_Sharp\FormCalculadora\FormCalculadora\obj\Debug\net8.0-windows\FormCalculadora.AssemblyInfoInputs.cache
+D:\Users\0048609\Documents\Desenvolvimento_C_Sharp\FormCalculadora\FormCalculadora\obj\Debug\net8.0-windows\FormCalculadora.AssemblyInfo.cs
+D:\Users\0048609\Documents\Desenvolvimento_C_Sharp\FormCalculadora\FormCalculadora\obj\Debug\net8.0-windows\FormCalculadora.csproj.CoreCompileInputs.cache
+D:\Users\0048609\Documents\Desenvolvimento_C_Sharp\FormCalculadora\FormCalculadora\obj\Debug\net8.0-windows\FormCalculadora.sourcelink.json
+D:\Users\0048609\Documents\Desenvolvimento_C_Sharp\FormCalculadora\FormCalculadora\obj\Debug\net8.0-windows\FormCalculadora.dll
+D:\Users\0048609\Documents\Desenvolvimento_C_Sharp\FormCalculadora\FormCalculadora\obj\Debug\net8.0-windows\refint\FormCalculadora.dll
+D:\Users\0048609\Documents\Desenvolvimento_C_Sharp\FormCalculadora\FormCalculadora\obj\Debug\net8.0-windows\FormCalculadora.pdb
+D:\Users\0048609\Documents\Desenvolvimento_C_Sharp\FormCalculadora\FormCalculadora\obj\Debug\net8.0-windows\FormCalculadora.genruntimeconfig.cache
+D:\Users\0048609\Documents\Desenvolvimento_C_Sharp\FormCalculadora\FormCalculadora\obj\Debug\net8.0-windows\ref\FormCalculadora.dll
