@@ -1,0 +1,7 @@
+D:\Users\0048609\Documents\Desenvolvimento_C_Sharp\OrganizarCod\OrganizarCod\bin\Debug\OrganizarCod.exe.config
+D:\Users\0048609\Documents\Desenvolvimento_C_Sharp\OrganizarCod\OrganizarCod\bin\Debug\OrganizarCod.exe
+D:\Users\0048609\Documents\Desenvolvimento_C_Sharp\OrganizarCod\OrganizarCod\bin\Debug\OrganizarCod.pdb
+D:\Users\0048609\Documents\Desenvolvimento_C_Sharp\OrganizarCod\OrganizarCod\obj\Debug\OrganizarCod.csproj.AssemblyReference.cache
+D:\Users\0048609\Documents\Desenvolvimento_C_Sharp\OrganizarCod\OrganizarCod\obj\Debug\OrganizarCod.csproj.CoreCompileInputs.cache
+D:\Users\0048609\Documents\Desenvolvimento_C_Sharp\OrganizarCod\OrganizarCod\obj\Debug\OrganizarCod.exe
+D:\Users\0048609\Documents\Desenvolvimento_C_Sharp\OrganizarCod\OrganizarCod\obj\Debug\OrganizarCod.pdb
