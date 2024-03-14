@@ -18,3 +18,7 @@ D:\Users\0048609\Documents\Desenvolvimento_C_Sharp\Atv2\Atv2\obj\Debug\net8.0-wi
 D:\Users\0048609\Documents\Desenvolvimento_C_Sharp\Atv2\Atv2\obj\Debug\net8.0-windows\Atv2.Form2.resources
 D:\Users\0048609\Documents\Desenvolvimento_C_Sharp\Atv2\Atv2\obj\Debug\net8.0-windows\Atv2.Form3.resources
 D:\Users\0048609\Documents\Desenvolvimento_C_Sharp\Atv2\Atv2\obj\Debug\net8.0-windows\Atv2.Form4.resources
+D:\Users\0048609\Documents\Desenvolvimento_C_Sharp\Atv2\Atv2\obj\Debug\net8.0-windows\Atv2.Form5.resources
+D:\Users\0048609\Documents\Desenvolvimento_C_Sharp\Atv2\Atv2\obj\Debug\net8.0-windows\Atv2.Form6.resources
+D:\Users\0048609\Documents\Desenvolvimento_C_Sharp\Atv2\Atv2\obj\Debug\net8.0-windows\Atv2.Form7.resources
+D:\Users\0048609\Documents\Desenvolvimento_C_Sharp\Atv2\Atv2\obj\Debug\net8.0-windows\Atv2.Form8.resources

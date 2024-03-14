@@ -9,7 +9,7 @@ namespace Atv2
 
         private void button1_Click(object sender, EventArgs e)
         {
-            Console.WriteLine("Hoje é quarta-feira, 01 de março de 2023");
+            MessageBox.Show("Hoje é quarta-feira, 01 de março de 2023");
         }
 
         private void button2_Click(object sender, EventArgs e)
@@ -34,6 +34,21 @@ namespace Atv2
         {
             Form5 f5 = new Form5();
             f5.ShowDialog();
+        }
+        private void button6_Click(object sender, EventArgs e)
+        {
+            Form6 f6 = new Form6();
+            f6.ShowDialog();
+        }
+        private void button7_Click(object sender, EventArgs e)
+        {
+            Form7 f7 = new Form7();
+            f7.ShowDialog();
+        }
+        private void button8_Click(object sender, EventArgs e)
+        {
+            Form8 f8 = new Form8();
+            f8.ShowDialog();
         }
     }
 }

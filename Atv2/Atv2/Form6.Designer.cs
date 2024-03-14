@@ -1,6 +1,6 @@
 ﻿namespace Atv2
 {
-    partial class Form5
+    partial class Form6
     {
         /// <summary>
         /// Required designer variable.
@@ -40,67 +40,72 @@
             // label1
             // 
             label1.AutoSize = true;
-            label1.Location = new Point(12, 29);
+            label1.Location = new Point(41, 33);
             label1.Name = "label1";
-            label1.Size = new Size(58, 15);
+            label1.Size = new Size(19, 15);
             label1.TabIndex = 0;
-            label1.Text = "Valor de a";
-            label1.Click += label1_Click;
+            label1.Text = "v1";
+            //label1.Click += this.label1_Click;
             // 
             // label2
             // 
             label2.AutoSize = true;
-            label2.Location = new Point(12, 61);
+            label2.Location = new Point(41, 79);
             label2.Name = "label2";
-            label2.Size = new Size(59, 15);
+            label2.Size = new Size(19, 15);
             label2.TabIndex = 1;
-            label2.Text = "Valor de b";
+            label2.Text = "v2";
+            //label2.Click += this.label2_Click;
             // 
             // label3
             // 
             label3.AutoSize = true;
-            label3.Location = new Point(12, 90);
+            label3.Location = new Point(41, 133);
             label3.Name = "label3";
-            label3.Size = new Size(58, 15);
+            label3.Size = new Size(19, 15);
             label3.TabIndex = 2;
-            label3.Text = "Valor de c";
+            label3.Text = "v3";
+            //label3.Click += this.label3_Click;
             // 
             // textBox1
             // 
-            textBox1.Location = new Point(83, 21);
+            textBox1.Location = new Point(94, 25);
             textBox1.Name = "textBox1";
             textBox1.Size = new Size(100, 23);
             textBox1.TabIndex = 3;
+            //textBox1.TextChanged += this.textBox1_TextChanged;
             // 
             // textBox2
             // 
-            textBox2.Location = new Point(83, 53);
+            textBox2.Location = new Point(94, 76);
             textBox2.Name = "textBox2";
             textBox2.Size = new Size(100, 23);
             textBox2.TabIndex = 4;
+            //textBox2.TextChanged += this.textBox2_TextChanged;
             // 
             // textBox3
             // 
-            textBox3.Location = new Point(83, 90);
+            textBox3.Location = new Point(94, 130);
             textBox3.Name = "textBox3";
             textBox3.Size = new Size(100, 23);
             textBox3.TabIndex = 5;
+            //textBox3.TextChanged += this.textBox3_TextChanged;
             // 
             // button1
             // 
-            button1.Location = new Point(31, 130);
+            button1.Location = new Point(89, 178);
             button1.Name = "button1";
-            button1.Size = new Size(171, 23);
+            button1.Size = new Size(105, 23);
             button1.TabIndex = 6;
-            button1.Text = "Calcular equação de 2° grau";
+            button1.Text = "Encontrar Maior";
             button1.UseVisualStyleBackColor = true;
             button1.Click += button1_Click;
             // 
-            // Form5
+            // Form6
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
-            ClientSize = new Size(226, 182);
+            ClientSize = new Size(275, 236);
             Controls.Add(button1);
             Controls.Add(textBox3);
             Controls.Add(textBox2);
@@ -108,8 +113,8 @@
             Controls.Add(label3);
             Controls.Add(label2);
             Controls.Add(label1);
-            Name = "Form5";
-            Text = "Form5";
+            Name = "Form6";
+            Text = "Form6";
             ResumeLayout(false);
             PerformLayout();
         }
