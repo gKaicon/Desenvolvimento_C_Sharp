@@ -8,11 +8,11 @@ namespace Atv1_7
 {
     internal class Q7
     {
-        public long somatorio(){
+        public double somatorio(){
             int i = 0;
-            long soma = 0;
+            double soma = 0;
             while(i < 64){
-                soma += Math.pow(2, i);
+                soma += Math.Pow(2, i);
             }
             return soma;
         }

@@ -8,8 +8,9 @@ namespace Atv1_7
 {
     internal class Q5
     {
-        public int calculaN(int n){
-            if(n < 0){
+        public double calculaN(int n){
+            double a = n;
+            if (n < 0){
                 n = n * (-1);
                 Console.WriteLine("Você digitou um valor negativo para n, consideraremos o valor positivo n = " + n);
             }
@@ -17,17 +18,13 @@ namespace Atv1_7
                 Console.WriteLine("Você digitou n = 0, consideraremos N = 1");
                 n = 1;
             }
-            else{
-                double a = n;
-                int i = 1, d = i+1;
-                while(d<=n){
-                    a += ((n-i))/d;
-                    i++;
-                    d++;
-                }
+            int i = 1, d = i+1;
+            while(d<=n){
+                a += ((n-i))/d;
+                i++;
+                d++;
             }
             return a;
         }
-
     }
 }
