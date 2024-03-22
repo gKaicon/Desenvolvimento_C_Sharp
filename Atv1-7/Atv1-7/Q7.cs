@@ -8,11 +8,13 @@ namespace Atv1_7
 {
     internal class Q7
     {
-        public double somatorio(){
+        public ulong somatorio(){
+            ulong soma = 0;
             int i = 0;
-            double soma = 0;
-            while(i < 64){
-                soma += Math.Pow(2, i);
+            while (i < 64)
+            {
+                soma += (ulong)(Math.Pow(2, i));
+                i++;
             }
             return soma;
         }

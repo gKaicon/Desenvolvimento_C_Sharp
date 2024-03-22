@@ -8,7 +8,7 @@ namespace Atv1_7
 {
     internal class Q5
     {
-        public double calculaN(int n){
+        public double calculaN(double n){
             double a = n;
             if (n < 0){
                 n = n * (-1);
@@ -18,7 +18,7 @@ namespace Atv1_7
                 Console.WriteLine("Você digitou n = 0, consideraremos N = 1");
                 n = 1;
             }
-            int i = 1, d = i+1;
+            double i = 1, d = i+1;
             while(d<=n){
                 a += ((n-i))/d;
                 i++;
