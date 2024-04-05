@@ -1,0 +1,7 @@
+D:\Users\0048609\Documents\Desenvolvimento_C_Sharp\Questão1\Questão1\bin\Debug\Questão1.exe.config
+D:\Users\0048609\Documents\Desenvolvimento_C_Sharp\Questão1\Questão1\bin\Debug\Questão1.exe
+D:\Users\0048609\Documents\Desenvolvimento_C_Sharp\Questão1\Questão1\bin\Debug\Questão1.pdb
+D:\Users\0048609\Documents\Desenvolvimento_C_Sharp\Questão1\Questão1\obj\Debug\Questão1.csproj.AssemblyReference.cache
+D:\Users\0048609\Documents\Desenvolvimento_C_Sharp\Questão1\Questão1\obj\Debug\Questão1.csproj.CoreCompileInputs.cache
+D:\Users\0048609\Documents\Desenvolvimento_C_Sharp\Questão1\Questão1\obj\Debug\Questão1.exe
+D:\Users\0048609\Documents\Desenvolvimento_C_Sharp\Questão1\Questão1\obj\Debug\Questão1.pdb
