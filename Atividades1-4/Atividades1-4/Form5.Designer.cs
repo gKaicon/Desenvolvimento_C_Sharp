@@ -1,6 +1,6 @@
 ﻿namespace Atividades1_4
 {
-    partial class Form4
+    partial class Form5
     {
         /// <summary>
         /// Required designer variable.
@@ -28,55 +28,55 @@
         /// </summary>
         private void InitializeComponent()
         {
-            button1 = new Button();
-            label1 = new Label();
             textBox1 = new TextBox();
+            label1 = new Label();
+            button1 = new Button();
             SuspendLayout();
             // 
-            // button1
+            // textBox1
             // 
-            button1.Location = new Point(62, 117);
-            button1.Name = "button1";
-            button1.Size = new Size(75, 23);
-            button1.TabIndex = 0;
-            button1.Text = "Verificar";
-            button1.UseVisualStyleBackColor = true;
-            button1.Click += button1_Click;
+            textBox1.Location = new Point(121, 49);
+            textBox1.Name = "textBox1";
+            textBox1.Size = new Size(100, 23);
+            textBox1.TabIndex = 5;
             // 
             // label1
             // 
             label1.AutoSize = true;
-            label1.Location = new Point(20, 73);
+            label1.Location = new Point(79, 52);
             label1.Name = "label1";
             label1.Size = new Size(36, 15);
-            label1.TabIndex = 1;
+            label1.TabIndex = 4;
             label1.Text = "Valor:";
             // 
-            // textBox1
+            // button1
             // 
-            textBox1.Location = new Point(62, 70);
-            textBox1.Name = "textBox1";
-            textBox1.Size = new Size(100, 23);
-            textBox1.TabIndex = 2;
+            button1.Location = new Point(121, 96);
+            button1.Name = "button1";
+            button1.Size = new Size(75, 23);
+            button1.TabIndex = 3;
+            button1.Text = "Verificar";
+            button1.UseVisualStyleBackColor = true;
+            button1.Click += button1_Click;
             // 
-            // Form4
+            // Form5
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
-            ClientSize = new Size(217, 171);
+            ClientSize = new Size(301, 169);
             Controls.Add(textBox1);
             Controls.Add(label1);
             Controls.Add(button1);
-            Name = "Form4";
-            Text = "Primo";
+            Name = "Form5";
+            Text = "Primo Eficiente";
             ResumeLayout(false);
             PerformLayout();
         }
 
         #endregion
 
-        private Button button1;
-        private Label label1;
         private TextBox textBox1;
+        private Label label1;
+        private Button button1;
     }
 }

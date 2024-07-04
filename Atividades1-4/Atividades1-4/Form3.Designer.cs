@@ -68,7 +68,7 @@
             Controls.Add(label1);
             Controls.Add(button1);
             Name = "Form3";
-            Text = "Form3";
+            Text = "Palindromo";
             ResumeLayout(false);
             PerformLayout();
         }
