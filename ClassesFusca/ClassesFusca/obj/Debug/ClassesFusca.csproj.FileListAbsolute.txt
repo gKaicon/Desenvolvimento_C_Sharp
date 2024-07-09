@@ -1,0 +1,5 @@
+E:\Usuários\0048609\source\repos\ClassesFusca\ClassesFusca\obj\Debug\ClassesFusca.csproj.AssemblyReference.cache
+E:\Usuários\0048609\source\repos\ClassesFusca\ClassesFusca\obj\Debug\ClassesFusca.Form1.resources
+E:\Usuários\0048609\source\repos\ClassesFusca\ClassesFusca\obj\Debug\ClassesFusca.Properties.Resources.resources
+E:\Usuários\0048609\source\repos\ClassesFusca\ClassesFusca\obj\Debug\ClassesFusca.csproj.GenerateResource.cache
+E:\Usuários\0048609\source\repos\ClassesFusca\ClassesFusca\obj\Debug\ClassesFusca.csproj.CoreCompileInputs.cache
