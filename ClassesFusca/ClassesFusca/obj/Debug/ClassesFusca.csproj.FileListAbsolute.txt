@@ -3,3 +3,13 @@ E:\Usuários\0048609\source\repos\ClassesFusca\ClassesFusca\obj\Debug\ClassesFus
 E:\Usuários\0048609\source\repos\ClassesFusca\ClassesFusca\obj\Debug\ClassesFusca.Properties.Resources.resources
 E:\Usuários\0048609\source\repos\ClassesFusca\ClassesFusca\obj\Debug\ClassesFusca.csproj.GenerateResource.cache
 E:\Usuários\0048609\source\repos\ClassesFusca\ClassesFusca\obj\Debug\ClassesFusca.csproj.CoreCompileInputs.cache
+D:\Users\0048609\Documents\Desenvolvimento_C_Sharp\ClassesFusca\ClassesFusca\bin\Debug\ClassesFusca.exe.config
+D:\Users\0048609\Documents\Desenvolvimento_C_Sharp\ClassesFusca\ClassesFusca\bin\Debug\ClassesFusca.exe
+D:\Users\0048609\Documents\Desenvolvimento_C_Sharp\ClassesFusca\ClassesFusca\bin\Debug\ClassesFusca.pdb
+D:\Users\0048609\Documents\Desenvolvimento_C_Sharp\ClassesFusca\ClassesFusca\obj\Debug\ClassesFusca.csproj.AssemblyReference.cache
+D:\Users\0048609\Documents\Desenvolvimento_C_Sharp\ClassesFusca\ClassesFusca\obj\Debug\ClassesFusca.Form1.resources
+D:\Users\0048609\Documents\Desenvolvimento_C_Sharp\ClassesFusca\ClassesFusca\obj\Debug\ClassesFusca.Properties.Resources.resources
+D:\Users\0048609\Documents\Desenvolvimento_C_Sharp\ClassesFusca\ClassesFusca\obj\Debug\ClassesFusca.csproj.GenerateResource.cache
+D:\Users\0048609\Documents\Desenvolvimento_C_Sharp\ClassesFusca\ClassesFusca\obj\Debug\ClassesFusca.csproj.CoreCompileInputs.cache
+D:\Users\0048609\Documents\Desenvolvimento_C_Sharp\ClassesFusca\ClassesFusca\obj\Debug\ClassesFusca.exe
+D:\Users\0048609\Documents\Desenvolvimento_C_Sharp\ClassesFusca\ClassesFusca\obj\Debug\ClassesFusca.pdb

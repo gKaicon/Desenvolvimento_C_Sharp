@@ -40,7 +40,7 @@
             this.textAro = new System.Windows.Forms.TextBox();
             this.textCor = new System.Windows.Forms.TextBox();
             this.textcorP = new System.Windows.Forms.TextBox();
-            this.Estado = new System.Windows.Forms.Label();
+            this.estado = new System.Windows.Forms.Label();
             this.vel = new System.Windows.Forms.Label();
             this.gear = new System.Windows.Forms.Label();
             this.Ligar = new System.Windows.Forms.Button();
@@ -48,6 +48,9 @@
             this.menosVel = new System.Windows.Forms.Button();
             this.menosMarcha = new System.Windows.Forms.Button();
             this.maisMarcha = new System.Windows.Forms.Button();
+            this.textVidro = new System.Windows.Forms.TextBox();
+            this.label8 = new System.Windows.Forms.Label();
+            this.labelFusca = new System.Windows.Forms.Label();
             this.SuspendLayout();
             // 
             // label1
@@ -89,7 +92,7 @@
             // label5
             // 
             this.label5.AutoSize = true;
-            this.label5.Location = new System.Drawing.Point(24, 178);
+            this.label5.Location = new System.Drawing.Point(25, 219);
             this.label5.Name = "label5";
             this.label5.Size = new System.Drawing.Size(43, 13);
             this.label5.TabIndex = 4;
@@ -98,7 +101,7 @@
             // label6
             // 
             this.label6.AutoSize = true;
-            this.label6.Location = new System.Drawing.Point(24, 205);
+            this.label6.Location = new System.Drawing.Point(25, 246);
             this.label6.Name = "label6";
             this.label6.Size = new System.Drawing.Size(63, 13);
             this.label6.TabIndex = 5;
@@ -107,7 +110,7 @@
             // label7
             // 
             this.label7.AutoSize = true;
-            this.label7.Location = new System.Drawing.Point(26, 230);
+            this.label7.Location = new System.Drawing.Point(27, 271);
             this.label7.Name = "label7";
             this.label7.Size = new System.Drawing.Size(46, 13);
             this.label7.TabIndex = 6;
@@ -115,7 +118,7 @@
             // 
             // button1
             // 
-            this.button1.Location = new System.Drawing.Point(152, 142);
+            this.button1.Location = new System.Drawing.Point(28, 172);
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(75, 23);
             this.button1.TabIndex = 7;
@@ -151,19 +154,19 @@
             this.textcorP.Size = new System.Drawing.Size(100, 20);
             this.textcorP.TabIndex = 11;
             // 
-            // Estado
+            // estado
             // 
-            this.Estado.AutoSize = true;
-            this.Estado.Location = new System.Drawing.Point(74, 178);
-            this.Estado.Name = "Estado";
-            this.Estado.Size = new System.Drawing.Size(13, 13);
-            this.Estado.TabIndex = 12;
-            this.Estado.Text = "_";
+            this.estado.AutoSize = true;
+            this.estado.Location = new System.Drawing.Point(75, 219);
+            this.estado.Name = "estado";
+            this.estado.Size = new System.Drawing.Size(13, 13);
+            this.estado.TabIndex = 12;
+            this.estado.Text = "_";
             // 
             // vel
             // 
             this.vel.AutoSize = true;
-            this.vel.Location = new System.Drawing.Point(93, 205);
+            this.vel.Location = new System.Drawing.Point(94, 246);
             this.vel.Name = "vel";
             this.vel.Size = new System.Drawing.Size(13, 13);
             this.vel.TabIndex = 13;
@@ -172,7 +175,7 @@
             // gear
             // 
             this.gear.AutoSize = true;
-            this.gear.Location = new System.Drawing.Point(77, 230);
+            this.gear.Location = new System.Drawing.Point(78, 271);
             this.gear.Name = "gear";
             this.gear.Size = new System.Drawing.Size(13, 13);
             this.gear.TabIndex = 14;
@@ -180,7 +183,7 @@
             // 
             // Ligar
             // 
-            this.Ligar.Location = new System.Drawing.Point(309, 173);
+            this.Ligar.Location = new System.Drawing.Point(310, 214);
             this.Ligar.Name = "Ligar";
             this.Ligar.Size = new System.Drawing.Size(75, 23);
             this.Ligar.TabIndex = 15;
@@ -190,45 +193,76 @@
             // 
             // maisVel
             // 
-            this.maisVel.Location = new System.Drawing.Point(250, 205);
+            this.maisVel.Location = new System.Drawing.Point(251, 246);
             this.maisVel.Name = "maisVel";
             this.maisVel.Size = new System.Drawing.Size(77, 23);
             this.maisVel.TabIndex = 16;
             this.maisVel.Text = "+ velocidade";
             this.maisVel.UseVisualStyleBackColor = true;
+            this.maisVel.Click += new System.EventHandler(this.maisVel_Click);
             // 
             // menosVel
             // 
-            this.menosVel.Location = new System.Drawing.Point(333, 205);
+            this.menosVel.Location = new System.Drawing.Point(334, 246);
             this.menosVel.Name = "menosVel";
             this.menosVel.Size = new System.Drawing.Size(75, 23);
             this.menosVel.TabIndex = 17;
             this.menosVel.Text = "- velocidade";
             this.menosVel.UseVisualStyleBackColor = true;
+            this.menosVel.Click += new System.EventHandler(this.menosVel_Click);
             // 
             // menosMarcha
             // 
-            this.menosMarcha.Location = new System.Drawing.Point(333, 234);
+            this.menosMarcha.Location = new System.Drawing.Point(334, 275);
             this.menosMarcha.Name = "menosMarcha";
             this.menosMarcha.Size = new System.Drawing.Size(75, 23);
             this.menosMarcha.TabIndex = 19;
             this.menosMarcha.Text = "- marcha";
             this.menosMarcha.UseVisualStyleBackColor = true;
+            this.menosMarcha.Click += new System.EventHandler(this.menosMarcha_Click);
             // 
             // maisMarcha
             // 
-            this.maisMarcha.Location = new System.Drawing.Point(250, 234);
+            this.maisMarcha.Location = new System.Drawing.Point(251, 275);
             this.maisMarcha.Name = "maisMarcha";
             this.maisMarcha.Size = new System.Drawing.Size(77, 23);
             this.maisMarcha.TabIndex = 18;
             this.maisMarcha.Text = "+ marcha";
             this.maisMarcha.UseVisualStyleBackColor = true;
+            this.maisMarcha.Click += new System.EventHandler(this.maisMarcha_Click);
+            // 
+            // textVidro
+            // 
+            this.textVidro.Location = new System.Drawing.Point(89, 133);
+            this.textVidro.Name = "textVidro";
+            this.textVidro.Size = new System.Drawing.Size(100, 20);
+            this.textVidro.TabIndex = 21;
+            // 
+            // label8
+            // 
+            this.label8.AutoSize = true;
+            this.label8.Location = new System.Drawing.Point(25, 136);
+            this.label8.Name = "label8";
+            this.label8.Size = new System.Drawing.Size(58, 13);
+            this.label8.TabIndex = 20;
+            this.label8.Text = "Tipo Vidro:";
+            // 
+            // labelFusca
+            // 
+            this.labelFusca.AutoSize = true;
+            this.labelFusca.Location = new System.Drawing.Point(271, 30);
+            this.labelFusca.Name = "labelFusca";
+            this.labelFusca.Size = new System.Drawing.Size(0, 13);
+            this.labelFusca.TabIndex = 22;
             // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(449, 450);
+            this.ClientSize = new System.Drawing.Size(449, 322);
+            this.Controls.Add(this.labelFusca);
+            this.Controls.Add(this.textVidro);
+            this.Controls.Add(this.label8);
             this.Controls.Add(this.menosMarcha);
             this.Controls.Add(this.maisMarcha);
             this.Controls.Add(this.menosVel);
@@ -236,7 +270,7 @@
             this.Controls.Add(this.Ligar);
             this.Controls.Add(this.gear);
             this.Controls.Add(this.vel);
-            this.Controls.Add(this.Estado);
+            this.Controls.Add(this.estado);
             this.Controls.Add(this.textcorP);
             this.Controls.Add(this.textCor);
             this.Controls.Add(this.textAro);
@@ -270,7 +304,7 @@
         private System.Windows.Forms.TextBox textAro;
         private System.Windows.Forms.TextBox textCor;
         private System.Windows.Forms.TextBox textcorP;
-        private System.Windows.Forms.Label Estado;
+        private System.Windows.Forms.Label estado;
         private System.Windows.Forms.Label vel;
         private System.Windows.Forms.Label gear;
         private System.Windows.Forms.Button Ligar;
@@ -278,6 +312,9 @@
         private System.Windows.Forms.Button menosVel;
         private System.Windows.Forms.Button menosMarcha;
         private System.Windows.Forms.Button maisMarcha;
+        private System.Windows.Forms.TextBox textVidro;
+        private System.Windows.Forms.Label label8;
+        private System.Windows.Forms.Label labelFusca;
     }
 }
 

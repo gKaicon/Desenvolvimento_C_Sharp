@@ -12,30 +12,36 @@ namespace ClassesFusca
         private int aro;
         private string cor;
         private string corParachoque;
-        
-        public Fusca(string placa, int aro, string cor, string corParachoque)
+        private string tipoVidro;
+
+        public Fusca(string placa, int aro, string cor, string corParachoque, string tipoVidro)
         {
             this.placa = placa;
             this.aro = aro;
             this.cor = cor;
             this.corParachoque = corParachoque;
+            this.tipoVidro = tipoVidro;
         }
 
         public int acelarar(int velocidade)
         {
-            return velocidade+=1;
+            if((velocidade + 5) >= 100)
+            {
+                return velocidade = 100;
+            }
+            return velocidade+=5;
         }
         public int freiar(int velocidade)
         {
-            if ((velocidade - 1) < 0)
+            if ((velocidade - 3) < 0)
             {
                 return velocidade;
             }
-            return velocidade -= 1;
+            return velocidade -= 3;
         }
         public int subirMarcha(int marcha)
         {
-            if ((marcha + 1) == 6)
+            if ((marcha + 1) == 5)
             {
                 return marcha;
             }
@@ -45,7 +51,7 @@ namespace ClassesFusca
         {
             if ((marcha - 1) < 0)
             {
-                return marcha = 0;
+                return marcha = -1;
             }
             return marcha -= 1;
         }
