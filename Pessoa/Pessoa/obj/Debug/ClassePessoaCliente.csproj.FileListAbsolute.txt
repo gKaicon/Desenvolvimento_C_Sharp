@@ -1,0 +1,10 @@
+E:\Usuários\0048609\Documents\Desenvolvimento_C_Sharp\Pessoa\Pessoa\bin\Debug\Pessoa.exe.config
+E:\Usuários\0048609\Documents\Desenvolvimento_C_Sharp\Pessoa\Pessoa\bin\Debug\Pessoa.exe
+E:\Usuários\0048609\Documents\Desenvolvimento_C_Sharp\Pessoa\Pessoa\bin\Debug\Pessoa.pdb
+E:\Usuários\0048609\Documents\Desenvolvimento_C_Sharp\Pessoa\Pessoa\obj\Debug\ClassePessoaCliente.csproj.AssemblyReference.cache
+E:\Usuários\0048609\Documents\Desenvolvimento_C_Sharp\Pessoa\Pessoa\obj\Debug\Pessoa.Form1.resources
+E:\Usuários\0048609\Documents\Desenvolvimento_C_Sharp\Pessoa\Pessoa\obj\Debug\Pessoa.Properties.Resources.resources
+E:\Usuários\0048609\Documents\Desenvolvimento_C_Sharp\Pessoa\Pessoa\obj\Debug\ClassePessoaCliente.csproj.GenerateResource.cache
+E:\Usuários\0048609\Documents\Desenvolvimento_C_Sharp\Pessoa\Pessoa\obj\Debug\ClassePessoaCliente.csproj.CoreCompileInputs.cache
+E:\Usuários\0048609\Documents\Desenvolvimento_C_Sharp\Pessoa\Pessoa\obj\Debug\Pessoa.exe
+E:\Usuários\0048609\Documents\Desenvolvimento_C_Sharp\Pessoa\Pessoa\obj\Debug\Pessoa.pdb
