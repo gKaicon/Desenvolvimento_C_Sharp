@@ -8,3 +8,13 @@ E:\Usuários\0048609\Documents\Desenvolvimento_C_Sharp\Pessoa\Pessoa\obj\Debug\C
 E:\Usuários\0048609\Documents\Desenvolvimento_C_Sharp\Pessoa\Pessoa\obj\Debug\ClassePessoaCliente.csproj.CoreCompileInputs.cache
 E:\Usuários\0048609\Documents\Desenvolvimento_C_Sharp\Pessoa\Pessoa\obj\Debug\Pessoa.exe
 E:\Usuários\0048609\Documents\Desenvolvimento_C_Sharp\Pessoa\Pessoa\obj\Debug\Pessoa.pdb
+D:\Users\0048609\Documents\Desenvolvimento_C_Sharp\Pessoa\Pessoa\bin\Debug\Pessoa.exe.config
+D:\Users\0048609\Documents\Desenvolvimento_C_Sharp\Pessoa\Pessoa\bin\Debug\Pessoa.exe
+D:\Users\0048609\Documents\Desenvolvimento_C_Sharp\Pessoa\Pessoa\bin\Debug\Pessoa.pdb
+D:\Users\0048609\Documents\Desenvolvimento_C_Sharp\Pessoa\Pessoa\obj\Debug\ClassePessoaCliente.csproj.AssemblyReference.cache
+D:\Users\0048609\Documents\Desenvolvimento_C_Sharp\Pessoa\Pessoa\obj\Debug\Pessoa.Form1.resources
+D:\Users\0048609\Documents\Desenvolvimento_C_Sharp\Pessoa\Pessoa\obj\Debug\Pessoa.Properties.Resources.resources
+D:\Users\0048609\Documents\Desenvolvimento_C_Sharp\Pessoa\Pessoa\obj\Debug\ClassePessoaCliente.csproj.GenerateResource.cache
+D:\Users\0048609\Documents\Desenvolvimento_C_Sharp\Pessoa\Pessoa\obj\Debug\ClassePessoaCliente.csproj.CoreCompileInputs.cache
+D:\Users\0048609\Documents\Desenvolvimento_C_Sharp\Pessoa\Pessoa\obj\Debug\Pessoa.exe
+D:\Users\0048609\Documents\Desenvolvimento_C_Sharp\Pessoa\Pessoa\obj\Debug\Pessoa.pdb

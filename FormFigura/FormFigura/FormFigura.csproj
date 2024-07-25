@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{5A91CB04-E384-4CE8-980E-AFA35A631310}</ProjectGuid>
+    <ProjectGuid>{EE8C6A34-326F-4848-97A9-D0DE79DDBAAE}</ProjectGuid>
     <OutputType>WinExe</OutputType>
-    <RootNamespace>Pessoa</RootNamespace>
-    <AssemblyName>Pessoa</AssemblyName>
+    <RootNamespace>FormFigura</RootNamespace>
+    <AssemblyName>FormFigura</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -46,18 +46,18 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Cliente.cs" />
-    <Compile Include="Diretor.cs" />
+    <Compile Include="Circulo.cs" />
+    <Compile Include="Figura.cs" />
     <Compile Include="Form1.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="Form1.Designer.cs">
       <DependentUpon>Form1.cs</DependentUpon>
     </Compile>
-    <Compile Include="Pessoa.cs" />
-    <Compile Include="Produto.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Retangulo.cs" />
+    <Compile Include="Triangulo.cs" />
     <EmbeddedResource Include="Form1.resx">
       <DependentUpon>Form1.cs</DependentUpon>
     </EmbeddedResource>

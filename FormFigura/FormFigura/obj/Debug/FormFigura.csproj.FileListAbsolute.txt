@@ -1,0 +1,10 @@
+D:\Users\0048609\Documents\Desenvolvimento_C_Sharp\FormFigura\FormFigura\bin\Debug\FormFigura.exe.config
+D:\Users\0048609\Documents\Desenvolvimento_C_Sharp\FormFigura\FormFigura\bin\Debug\FormFigura.exe
+D:\Users\0048609\Documents\Desenvolvimento_C_Sharp\FormFigura\FormFigura\bin\Debug\FormFigura.pdb
+D:\Users\0048609\Documents\Desenvolvimento_C_Sharp\FormFigura\FormFigura\obj\Debug\FormFigura.csproj.AssemblyReference.cache
+D:\Users\0048609\Documents\Desenvolvimento_C_Sharp\FormFigura\FormFigura\obj\Debug\FormFigura.Form1.resources
+D:\Users\0048609\Documents\Desenvolvimento_C_Sharp\FormFigura\FormFigura\obj\Debug\FormFigura.Properties.Resources.resources
+D:\Users\0048609\Documents\Desenvolvimento_C_Sharp\FormFigura\FormFigura\obj\Debug\FormFigura.csproj.GenerateResource.cache
+D:\Users\0048609\Documents\Desenvolvimento_C_Sharp\FormFigura\FormFigura\obj\Debug\FormFigura.csproj.CoreCompileInputs.cache
+D:\Users\0048609\Documents\Desenvolvimento_C_Sharp\FormFigura\FormFigura\obj\Debug\FormFigura.exe
+D:\Users\0048609\Documents\Desenvolvimento_C_Sharp\FormFigura\FormFigura\obj\Debug\FormFigura.pdb

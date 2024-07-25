@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using System.Windows.Forms;
 
 namespace Pessoa
 {
@@ -32,6 +33,11 @@ namespace Pessoa
             String pessoaCad = "";
             pessoaCad += ("\nNome: " + this.nome + "\nCPF: " + this.cpf + "\nIdade: " + this.idade);
             return pessoaCad;
+        }
+        public virtual string viajar()
+        {
+            string mensagem = "Sr. " + nome + "está viajando!";
+            return mensagem;
         }
     }
 }
