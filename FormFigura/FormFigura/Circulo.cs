@@ -14,12 +14,12 @@ namespace FormFigura
 
         public override string calcPerimetro()
         {
-            double perimetro = 2 * Math.PI * r;
-            return "O perimetro é :" + perimetro;
+            double perimetro = Math.Round(2 * Math.PI * r, 2);
+            return "O perimetro é: " + perimetro;
         }
         public override string calcArea()
         {
-            double area = Math.PI * Math.Pow(r, 2);
+            double area = Math.Round(Math.PI * Math.Pow(r, 2), 2);
             return "A area é: " + area;
         }
 

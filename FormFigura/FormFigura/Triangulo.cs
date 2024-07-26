@@ -18,12 +18,12 @@ namespace FormFigura
 
         public override string calcPerimetro()
         {
-            double perimetro = this.baseT * 3;
-            return "O perimetro é :" + perimetro;
+            double perimetro = Math.Round(this.baseT * 3, 2);
+            return "O perimetro é: " + perimetro;
         }
         public override string calcArea()
         {
-            double area = (this.baseT * this.altura) / 2;
+            double area = Math.Round((this.baseT * this.altura) / 2, 2);
             return "A area é: " + area;
         }
     }

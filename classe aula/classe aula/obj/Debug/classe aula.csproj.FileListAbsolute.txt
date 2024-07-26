@@ -1,0 +1,40 @@
+D:\Users\0070110\source\repos\classe aula\classe aula\bin\Debug\classe aula.exe.config
+D:\Users\0070110\source\repos\classe aula\classe aula\bin\Debug\classe aula.exe
+D:\Users\0070110\source\repos\classe aula\classe aula\bin\Debug\classe aula.pdb
+D:\Users\0070110\source\repos\classe aula\classe aula\obj\Debug\classe aula.csproj.AssemblyReference.cache
+D:\Users\0070110\source\repos\classe aula\classe aula\obj\Debug\classe_aula.Form1.resources
+D:\Users\0070110\source\repos\classe aula\classe aula\obj\Debug\classe_aula.Properties.Resources.resources
+D:\Users\0070110\source\repos\classe aula\classe aula\obj\Debug\classe aula.csproj.GenerateResource.cache
+D:\Users\0070110\source\repos\classe aula\classe aula\obj\Debug\classe aula.csproj.CoreCompileInputs.cache
+D:\Users\0070110\source\repos\classe aula\classe aula\obj\Debug\classe aula.exe
+D:\Users\0070110\source\repos\classe aula\classe aula\obj\Debug\classe aula.pdb
+E:\Users\0070110\Downloads\classe aula\classe aula\classe aula\bin\Debug\classe aula.exe.config
+E:\Users\0070110\Downloads\classe aula\classe aula\classe aula\bin\Debug\classe aula.exe
+E:\Users\0070110\Downloads\classe aula\classe aula\classe aula\bin\Debug\classe aula.pdb
+E:\Users\0070110\Downloads\classe aula\classe aula\classe aula\obj\Debug\classe aula.csproj.AssemblyReference.cache
+E:\Users\0070110\Downloads\classe aula\classe aula\classe aula\obj\Debug\classe_aula.Form1.resources
+E:\Users\0070110\Downloads\classe aula\classe aula\classe aula\obj\Debug\classe_aula.Properties.Resources.resources
+E:\Users\0070110\Downloads\classe aula\classe aula\classe aula\obj\Debug\classe aula.csproj.GenerateResource.cache
+E:\Users\0070110\Downloads\classe aula\classe aula\classe aula\obj\Debug\classe aula.csproj.CoreCompileInputs.cache
+E:\Users\0070110\Downloads\classe aula\classe aula\classe aula\obj\Debug\classe aula.exe
+E:\Users\0070110\Downloads\classe aula\classe aula\classe aula\obj\Debug\classe aula.pdb
+D:\Users\0048609\Documents\Desenvolvimento_C_Sharp\classe aula2\classe aula\classe aula\bin\Debug\classe aula.exe.config
+D:\Users\0048609\Documents\Desenvolvimento_C_Sharp\classe aula2\classe aula\classe aula\bin\Debug\classe aula.exe
+D:\Users\0048609\Documents\Desenvolvimento_C_Sharp\classe aula2\classe aula\classe aula\bin\Debug\classe aula.pdb
+D:\Users\0048609\Documents\Desenvolvimento_C_Sharp\classe aula2\classe aula\classe aula\obj\Debug\classe aula.csproj.AssemblyReference.cache
+D:\Users\0048609\Documents\Desenvolvimento_C_Sharp\classe aula2\classe aula\classe aula\obj\Debug\classe_aula.Form1.resources
+D:\Users\0048609\Documents\Desenvolvimento_C_Sharp\classe aula2\classe aula\classe aula\obj\Debug\classe_aula.Properties.Resources.resources
+D:\Users\0048609\Documents\Desenvolvimento_C_Sharp\classe aula2\classe aula\classe aula\obj\Debug\classe aula.csproj.GenerateResource.cache
+D:\Users\0048609\Documents\Desenvolvimento_C_Sharp\classe aula2\classe aula\classe aula\obj\Debug\classe aula.csproj.CoreCompileInputs.cache
+D:\Users\0048609\Documents\Desenvolvimento_C_Sharp\classe aula2\classe aula\classe aula\obj\Debug\classe aula.exe
+D:\Users\0048609\Documents\Desenvolvimento_C_Sharp\classe aula2\classe aula\classe aula\obj\Debug\classe aula.pdb
+D:\Users\0048609\Documents\Desenvolvimento_C_Sharp\classe aula\classe aula\obj\Debug\classe aula.csproj.AssemblyReference.cache
+D:\Users\0048609\Documents\Desenvolvimento_C_Sharp\classe aula\classe aula\obj\Debug\classe_aula.Form1.resources
+D:\Users\0048609\Documents\Desenvolvimento_C_Sharp\classe aula\classe aula\obj\Debug\classe_aula.Properties.Resources.resources
+D:\Users\0048609\Documents\Desenvolvimento_C_Sharp\classe aula\classe aula\obj\Debug\classe aula.csproj.GenerateResource.cache
+D:\Users\0048609\Documents\Desenvolvimento_C_Sharp\classe aula\classe aula\obj\Debug\classe aula.csproj.CoreCompileInputs.cache
+D:\Users\0048609\Documents\Desenvolvimento_C_Sharp\classe aula\classe aula\obj\Debug\classe aula.exe
+D:\Users\0048609\Documents\Desenvolvimento_C_Sharp\classe aula\classe aula\obj\Debug\classe aula.pdb
+D:\Users\0048609\Documents\Desenvolvimento_C_Sharp\classe aula\classe aula\bin\Debug\classe aula.exe.config
+D:\Users\0048609\Documents\Desenvolvimento_C_Sharp\classe aula\classe aula\bin\Debug\classe aula.exe
+D:\Users\0048609\Documents\Desenvolvimento_C_Sharp\classe aula\classe aula\bin\Debug\classe aula.pdb

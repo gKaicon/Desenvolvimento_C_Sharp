@@ -16,6 +16,7 @@ namespace FormFigura
         int itemSelecionado = 0;
         string messagemA = "";
         string messagemP = "";
+        bool podeFazerCalculo = false;
 
         Retangulo r = new Retangulo();
         Circulo c = new Circulo();
@@ -25,39 +26,16 @@ namespace FormFigura
         {
             InitializeComponent();
             comboBox1.SelectedIndex = itemSelecionado;
-        }
-
-        private void buttonSelecionar_Click(object sender, EventArgs e)
-        {
-            groupBox1.Text = comboBox1.SelectedItem.ToString();
-            itemSelecionado = comboBox1.SelectedIndex;
-            if (itemSelecionado == 0)
-            {
-                //retângulo
-                label1.Text = "Base: ";
-                label2.Text = "Altura: ";
-                label1.Visible = true;
-                label2.Visible = true;
-                textBox1.Visible = true;
-                textBox2.Visible = true;
-            }
-            else if (itemSelecionado == 1)
-            {
-                //circulo
-                label1.Text = "Raio: ";
-                label2.Visible = false;
-                textBox2.Visible = false;
-            }
-            else if (itemSelecionado == 2)
-            {
-                //triângulo
-                label1.Text = "Base: ";
-                label2.Text = "Altura: ";
-                label1.Visible = true;
-                label2.Visible = true;
-                textBox1.Visible = true;
-                textBox2.Visible = true;
-            }
+            groupBox1.Text = "";
+            label1.Visible = false;
+            label2.Visible = false;
+            textBox1.Visible = false;
+            textBox2.Visible = false;
+            buttonCalcA.Visible = false;
+            buttonCalcP.Visible = false;
+            buttonCalcA.Enabled = false;
+            buttonCalcP.Enabled = false;
+            this.StartPosition = FormStartPosition.CenterScreen;
         }
 
         public void getDados()
@@ -71,59 +49,112 @@ namespace FormFigura
             else if (itemSelecionado == 1)
             {
                 //circulo
-                c.R = Convert.ToDouble(textBox1.Text);
+                c.R = Convert.ToDouble(textBox1.Text);               
             }
-
             else if (itemSelecionado == 2)
             {
                 //triangulo
                 t.BaseT = Convert.ToDouble(textBox1.Text);
                 t.Altura = Convert.ToDouble(textBox2.Text);
+                
             }
         }
-
+        private bool verificaCampos()
+        {
+            if (itemSelecionado == 1 && (textBox1.Text != ""))
+            {
+                podeFazerCalculo = true;
+                return true;
+            }
+            else if ((itemSelecionado == 0 || itemSelecionado == 2) && (textBox1.Text != "" && textBox2.Text != ""))
+            {
+                podeFazerCalculo = true;
+                return true;
+            }
+            podeFazerCalculo = false;
+            return false;
+        }
         private void buttonCalcP_Click(object sender, EventArgs e)
         {
-            getDados();
             
-            if (itemSelecionado == 0)
+            if (verificaCampos())
             {
-                //retangulo
-                messagemP = r.calcPerimetro();
-            }
-            else if (itemSelecionado == 1)
-            {
-                //circulo
-                messagemP = c.calcPerimetro();
-            }
+                getDados();         
+                if (itemSelecionado == 0)
+                {
+                    //retangulo
+                    messagemP = r.calcPerimetro();
+                }
+                else if (itemSelecionado == 1)
+                {
+                    //circulo
+                    messagemP = c.calcPerimetro();
+                }
 
-            else if (itemSelecionado == 2)
-            {
-                //triangulo
-                messagemP = t.calcPerimetro();
+                else if (itemSelecionado == 2)
+                {
+                    //triangulo
+                    messagemP = t.calcPerimetro();
+                }
+                MessageBox.Show(messagemP, "Calculo Perimetro");
             }
-            MessageBox.Show(messagemP);
+            else
+            {
+                MessageBox.Show("Há campos vazios", "Erro");
+            }
         }
         private void buttonCalcA_Click(object sender, EventArgs e)
         {
-            getDados();
-            if (itemSelecionado == 0)
+            if (verificaCampos())
             {
-                //retangulo
-                messagemA = r.calcArea();
+                getDados();
+                if (itemSelecionado == 0)
+                {
+                    //retangulo
+                    messagemA = r.calcArea();
+                }
+                else if (itemSelecionado == 1)
+                {
+                    //circulo
+                    messagemA = c.calcArea();
+                }
+
+                else if (itemSelecionado == 2)
+                {
+                    //triangulo
+                    messagemA = t.calcArea();
+                }
+                MessageBox.Show(messagemA, "Área");
             }
-            else if (itemSelecionado == 1)
+            else
+            {
+                MessageBox.Show("Há campos vazios", "Erro");
+            }
+        }
+
+        private void comboBox1_SelectedIndexChanged(object sender, EventArgs e)
+        {
+            buttonCalcA.Visible = true;
+            buttonCalcP.Visible = true;
+            buttonCalcA.Enabled = true;
+            buttonCalcP.Enabled = true;
+            textBox1.Text = "";
+            textBox2.Text = "";
+            label1.Text = "Base: ";
+            label2.Text = "Altura: ";
+            label1.Visible = true;
+            label2.Visible = true;
+            textBox1.Visible = true;
+            textBox2.Visible = true;
+            groupBox1.Text = comboBox1.SelectedItem.ToString();
+            itemSelecionado = comboBox1.SelectedIndex;
+            if (itemSelecionado == 1)
             {
                 //circulo
-                messagemA = c.calcArea();
+                label1.Text = "Raio: ";
+                label2.Visible = false;
+                textBox2.Visible = false;
             }
-
-            else if (itemSelecionado == 2)
-            {
-                //triangulo
-                messagemA = t.calcArea();
-            }
-            MessageBox.Show(messagemA);
         }
     }
 }
