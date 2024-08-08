@@ -1,0 +1,169 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\amand\\source\\repos\\AtividadeAtleta\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{59B3DA29-4D29-4382-9D09-EE38FA1121B1}|AtividadeAtleta\\AtividadeAtleta.csproj|c:\\users\\amand\\source\\repos\\atividadeatleta\\atividadeatleta\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59B3DA29-4D29-4382-9D09-EE38FA1121B1}|AtividadeAtleta\\AtividadeAtleta.csproj|solutionrelative:atividadeatleta\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59B3DA29-4D29-4382-9D09-EE38FA1121B1}|AtividadeAtleta\\AtividadeAtleta.csproj|c:\\users\\amand\\source\\repos\\atividadeatleta\\atividadeatleta\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{59B3DA29-4D29-4382-9D09-EE38FA1121B1}|AtividadeAtleta\\AtividadeAtleta.csproj|solutionrelative:atividadeatleta\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59B3DA29-4D29-4382-9D09-EE38FA1121B1}|AtividadeAtleta\\AtividadeAtleta.csproj|c:\\users\\amand\\source\\repos\\atividadeatleta\\atividadeatleta\\triatleta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59B3DA29-4D29-4382-9D09-EE38FA1121B1}|AtividadeAtleta\\AtividadeAtleta.csproj|solutionrelative:atividadeatleta\\triatleta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59B3DA29-4D29-4382-9D09-EE38FA1121B1}|AtividadeAtleta\\AtividadeAtleta.csproj|c:\\users\\amand\\source\\repos\\atividadeatleta\\atividadeatleta\\nadador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59B3DA29-4D29-4382-9D09-EE38FA1121B1}|AtividadeAtleta\\AtividadeAtleta.csproj|solutionrelative:atividadeatleta\\nadador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59B3DA29-4D29-4382-9D09-EE38FA1121B1}|AtividadeAtleta\\AtividadeAtleta.csproj|c:\\users\\amand\\source\\repos\\atividadeatleta\\atividadeatleta\\ciclista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59B3DA29-4D29-4382-9D09-EE38FA1121B1}|AtividadeAtleta\\AtividadeAtleta.csproj|solutionrelative:atividadeatleta\\ciclista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59B3DA29-4D29-4382-9D09-EE38FA1121B1}|AtividadeAtleta\\AtividadeAtleta.csproj|c:\\users\\amand\\source\\repos\\atividadeatleta\\atividadeatleta\\corredor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59B3DA29-4D29-4382-9D09-EE38FA1121B1}|AtividadeAtleta\\AtividadeAtleta.csproj|solutionrelative:atividadeatleta\\corredor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59B3DA29-4D29-4382-9D09-EE38FA1121B1}|AtividadeAtleta\\AtividadeAtleta.csproj|c:\\users\\amand\\source\\repos\\atividadeatleta\\atividadeatleta\\atleta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59B3DA29-4D29-4382-9D09-EE38FA1121B1}|AtividadeAtleta\\AtividadeAtleta.csproj|solutionrelative:atividadeatleta\\atleta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59B3DA29-4D29-4382-9D09-EE38FA1121B1}|AtividadeAtleta\\AtividadeAtleta.csproj|c:\\users\\amand\\source\\repos\\atividadeatleta\\atividadeatleta\\inadador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59B3DA29-4D29-4382-9D09-EE38FA1121B1}|AtividadeAtleta\\AtividadeAtleta.csproj|solutionrelative:atividadeatleta\\inadador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 865,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Atleta.cs",
+              "DocumentMoniker": "C:\\Users\\amand\\source\\repos\\AtividadeAtleta\\AtividadeAtleta\\Atleta.cs",
+              "RelativeDocumentMoniker": "AtividadeAtleta\\Atleta.cs",
+              "ToolTip": "C:\\Users\\amand\\source\\repos\\AtividadeAtleta\\AtividadeAtleta\\Atleta.cs",
+              "RelativeToolTip": "AtividadeAtleta\\Atleta.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T22:17:55.573Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Nadador.cs",
+              "DocumentMoniker": "C:\\Users\\amand\\source\\repos\\AtividadeAtleta\\AtividadeAtleta\\Nadador.cs",
+              "RelativeDocumentMoniker": "AtividadeAtleta\\Nadador.cs",
+              "ToolTip": "C:\\Users\\amand\\source\\repos\\AtividadeAtleta\\AtividadeAtleta\\Nadador.cs",
+              "RelativeToolTip": "AtividadeAtleta\\Nadador.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABIAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T22:17:48.529Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "INadador.cs",
+              "DocumentMoniker": "C:\\Users\\amand\\source\\repos\\AtividadeAtleta\\AtividadeAtleta\\INadador.cs",
+              "RelativeDocumentMoniker": "AtividadeAtleta\\INadador.cs",
+              "ToolTip": "C:\\Users\\amand\\source\\repos\\AtividadeAtleta\\AtividadeAtleta\\INadador.cs",
+              "RelativeToolTip": "AtividadeAtleta\\INadador.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T22:17:46.622Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Corredor.cs",
+              "DocumentMoniker": "C:\\Users\\amand\\source\\repos\\AtividadeAtleta\\AtividadeAtleta\\Corredor.cs",
+              "RelativeDocumentMoniker": "AtividadeAtleta\\Corredor.cs",
+              "ToolTip": "C:\\Users\\amand\\source\\repos\\AtividadeAtleta\\AtividadeAtleta\\Corredor.cs",
+              "RelativeToolTip": "AtividadeAtleta\\Corredor.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T22:16:44.039Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Ciclista.cs",
+              "DocumentMoniker": "C:\\Users\\amand\\source\\repos\\AtividadeAtleta\\AtividadeAtleta\\Ciclista.cs",
+              "RelativeDocumentMoniker": "AtividadeAtleta\\Ciclista.cs",
+              "ToolTip": "C:\\Users\\amand\\source\\repos\\AtividadeAtleta\\AtividadeAtleta\\Ciclista.cs",
+              "RelativeToolTip": "AtividadeAtleta\\Ciclista.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T22:15:33.156Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\amand\\source\\repos\\AtividadeAtleta\\AtividadeAtleta\\Form1.cs",
+              "RelativeDocumentMoniker": "AtividadeAtleta\\Form1.cs",
+              "ToolTip": "C:\\Users\\amand\\source\\repos\\AtividadeAtleta\\AtividadeAtleta\\Form1.cs",
+              "RelativeToolTip": "AtividadeAtleta\\Form1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAE0AAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T22:13:10.653Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Triatleta.cs",
+              "DocumentMoniker": "C:\\Users\\amand\\source\\repos\\AtividadeAtleta\\AtividadeAtleta\\Triatleta.cs",
+              "RelativeDocumentMoniker": "AtividadeAtleta\\Triatleta.cs",
+              "ToolTip": "C:\\Users\\amand\\source\\repos\\AtividadeAtleta\\AtividadeAtleta\\Triatleta.cs",
+              "RelativeToolTip": "AtividadeAtleta\\Triatleta.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAIwA0AAAB2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T22:09:56.966Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\amand\\source\\repos\\AtividadeAtleta\\AtividadeAtleta\\Form1.cs",
+              "RelativeDocumentMoniker": "AtividadeAtleta\\Form1.cs",
+              "ToolTip": "C:\\Users\\amand\\source\\repos\\AtividadeAtleta\\AtividadeAtleta\\Form1.cs [Projeto]",
+              "RelativeToolTip": "AtividadeAtleta\\Form1.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T22:05:04.537Z",
+              "EditorCaption": " [Projeto]"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 219,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
