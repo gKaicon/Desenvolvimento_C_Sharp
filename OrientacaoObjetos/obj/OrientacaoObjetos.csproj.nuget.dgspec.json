@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Users\\0040838\\Desktop\\Prova - Debi Junia\\OrientacaoObjetos\\OrientacaoObjetos.csproj": {}
+    "D:\\Users\\0048609\\Documents\\Desenvolvimento_C_Sharp\\OrientacaoObjetos\\OrientacaoObjetos.csproj": {}
   },
   "projects": {
-    "E:\\Users\\0040838\\Desktop\\Prova - Debi Junia\\OrientacaoObjetos\\OrientacaoObjetos.csproj": {
+    "D:\\Users\\0048609\\Documents\\Desenvolvimento_C_Sharp\\OrientacaoObjetos\\OrientacaoObjetos.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Users\\0040838\\Desktop\\Prova - Debi Junia\\OrientacaoObjetos\\OrientacaoObjetos.csproj",
+        "projectUniqueName": "D:\\Users\\0048609\\Documents\\Desenvolvimento_C_Sharp\\OrientacaoObjetos\\OrientacaoObjetos.csproj",
         "projectName": "OrientacaoObjetos",
-        "projectPath": "E:\\Users\\0040838\\Desktop\\Prova - Debi Junia\\OrientacaoObjetos\\OrientacaoObjetos.csproj",
-        "packagesPath": "E:\\Users\\0040838\\.nuget\\packages\\",
-        "outputPath": "E:\\Users\\0040838\\Desktop\\Prova - Debi Junia\\OrientacaoObjetos\\obj\\",
+        "projectPath": "D:\\Users\\0048609\\Documents\\Desenvolvimento_C_Sharp\\OrientacaoObjetos\\OrientacaoObjetos.csproj",
+        "packagesPath": "D:\\Users\\0048609\\.nuget\\packages\\",
+        "outputPath": "D:\\Users\\0048609\\Documents\\Desenvolvimento_C_Sharp\\OrientacaoObjetos\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "E:\\Users\\0040838\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "D:\\Users\\0048609\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

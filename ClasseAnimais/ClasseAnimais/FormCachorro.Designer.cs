@@ -38,7 +38,7 @@
             // label1
             // 
             label1.AutoSize = true;
-            label1.Location = new Point(96, 76);
+            label1.Location = new Point(17, 29);
             label1.Name = "label1";
             label1.Size = new Size(43, 15);
             label1.TabIndex = 0;
@@ -46,14 +46,14 @@
             // 
             // textBox1
             // 
-            textBox1.Location = new Point(145, 73);
+            textBox1.Location = new Point(66, 26);
             textBox1.Name = "textBox1";
-            textBox1.Size = new Size(93, 23);
+            textBox1.Size = new Size(191, 23);
             textBox1.TabIndex = 1;
             // 
             // button1
             // 
-            button1.Location = new Point(96, 126);
+            button1.Location = new Point(17, 79);
             button1.Name = "button1";
             button1.Size = new Size(76, 22);
             button1.TabIndex = 2;
@@ -63,7 +63,7 @@
             // 
             // button2
             // 
-            button2.Location = new Point(193, 126);
+            button2.Location = new Point(99, 79);
             button2.Name = "button2";
             button2.Size = new Size(76, 22);
             button2.TabIndex = 3;
@@ -73,7 +73,7 @@
             // 
             // button3
             // 
-            button3.Location = new Point(286, 126);
+            button3.Location = new Point(181, 79);
             button3.Name = "button3";
             button3.Size = new Size(76, 22);
             button3.TabIndex = 4;
@@ -85,7 +85,7 @@
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
-            ClientSize = new Size(565, 291);
+            ClientSize = new Size(278, 157);
             Controls.Add(button3);
             Controls.Add(button2);
             Controls.Add(button1);

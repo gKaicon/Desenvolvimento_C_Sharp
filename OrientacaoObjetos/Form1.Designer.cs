@@ -85,9 +85,12 @@
             // trackBar1
             // 
             trackBar1.Location = new Point(129, 78);
+            trackBar1.Maximum = 90;
+            trackBar1.Minimum = 16;
             trackBar1.Name = "trackBar1";
             trackBar1.Size = new Size(157, 45);
             trackBar1.TabIndex = 3;
+            trackBar1.Value = 16;
             trackBar1.Scroll += trackBar1_Scroll;
             // 
             // textBox1
@@ -191,7 +194,7 @@
             Controls.Add(groupBox2);
             Controls.Add(groupBox1);
             Name = "Form1";
-            Text = "Form1";
+            Text = "Cadastro";
             groupBox1.ResumeLayout(false);
             groupBox1.PerformLayout();
             ((System.ComponentModel.ISupportInitialize)trackBar1).EndInit();

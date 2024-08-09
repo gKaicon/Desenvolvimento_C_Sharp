@@ -12,17 +12,13 @@ namespace ClasseAnimais
         {
         }
 
-        // Sobrescreve o método acao da classe base
         public override void acao()
         {
-            // Aqui você define a mensagem específica para Galinha
             MessageBox.Show("Ciscando o chão...");
         }
 
-        // Se necessário, você pode também sobrescrever o método falar
         public override void falar()
         {
-            // Defina o som específico da galinha, se desejado
             MessageBox.Show("Cócóricó !");
         }
     }

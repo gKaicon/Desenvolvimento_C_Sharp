@@ -37,7 +37,7 @@
             // 
             comboBox1.FormattingEnabled = true;
             comboBox1.Items.AddRange(new object[] { "Galinha" });
-            comboBox1.Location = new Point(243, 131);
+            comboBox1.Location = new Point(63, 73);
             comboBox1.Name = "comboBox1";
             comboBox1.Size = new Size(114, 23);
             comboBox1.TabIndex = 0;
@@ -45,7 +45,7 @@
             // label1
             // 
             label1.AutoSize = true;
-            label1.Location = new Point(243, 96);
+            label1.Location = new Point(63, 38);
             label1.Name = "label1";
             label1.Size = new Size(109, 15);
             label1.TabIndex = 1;
@@ -53,7 +53,7 @@
             // 
             // button1
             // 
-            button1.Location = new Point(261, 185);
+            button1.Location = new Point(81, 127);
             button1.Name = "button1";
             button1.Size = new Size(75, 23);
             button1.TabIndex = 2;
@@ -65,7 +65,7 @@
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
-            ClientSize = new Size(800, 450);
+            ClientSize = new Size(237, 166);
             Controls.Add(button1);
             Controls.Add(label1);
             Controls.Add(comboBox1);

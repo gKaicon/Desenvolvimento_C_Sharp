@@ -14,14 +14,12 @@ namespace ClasseAnimais
 
         public override void acao()
         {
-
             MessageBox.Show("Ação do mamífero");
         }
 
 
         public override void falar()
         {
-
             MessageBox.Show("Fala do mamífero");
         }
     }

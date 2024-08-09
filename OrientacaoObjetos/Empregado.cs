@@ -5,6 +5,16 @@
         private string nomeEmp;
         private int idadeEmp;
 
+        public Empregado()
+        {
+        }
+
+        public Empregado(string nomeEmp, int idadeEmp)
+        {
+            this.nomeEmp = nomeEmp;
+            this.idadeEmp = idadeEmp;
+        }
+
         public int Idade
         {
             get { return idadeEmp; }

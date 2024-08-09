@@ -14,3 +14,20 @@ E:\Users\0040838\Desktop\Prova - Debi Junia\OrientacaoObjetos\obj\Debug\net8.0-w
 E:\Users\0040838\Desktop\Prova - Debi Junia\OrientacaoObjetos\obj\Debug\net8.0-windows\OrientacaoObjetos.pdb
 E:\Users\0040838\Desktop\Prova - Debi Junia\OrientacaoObjetos\obj\Debug\net8.0-windows\OrientacaoObjetos.genruntimeconfig.cache
 E:\Users\0040838\Desktop\Prova - Debi Junia\OrientacaoObjetos\obj\Debug\net8.0-windows\ref\OrientacaoObjetos.dll
+D:\Users\0048609\Documents\Desenvolvimento_C_Sharp\OrientacaoObjetos\bin\Debug\net8.0-windows\OrientacaoObjetos.exe
+D:\Users\0048609\Documents\Desenvolvimento_C_Sharp\OrientacaoObjetos\bin\Debug\net8.0-windows\OrientacaoObjetos.deps.json
+D:\Users\0048609\Documents\Desenvolvimento_C_Sharp\OrientacaoObjetos\bin\Debug\net8.0-windows\OrientacaoObjetos.runtimeconfig.json
+D:\Users\0048609\Documents\Desenvolvimento_C_Sharp\OrientacaoObjetos\bin\Debug\net8.0-windows\OrientacaoObjetos.dll
+D:\Users\0048609\Documents\Desenvolvimento_C_Sharp\OrientacaoObjetos\bin\Debug\net8.0-windows\OrientacaoObjetos.pdb
+D:\Users\0048609\Documents\Desenvolvimento_C_Sharp\OrientacaoObjetos\obj\Debug\net8.0-windows\OrientacaoObjetos.Form1.resources
+D:\Users\0048609\Documents\Desenvolvimento_C_Sharp\OrientacaoObjetos\obj\Debug\net8.0-windows\OrientacaoObjetos.csproj.GenerateResource.cache
+D:\Users\0048609\Documents\Desenvolvimento_C_Sharp\OrientacaoObjetos\obj\Debug\net8.0-windows\OrientacaoObjetos.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\0048609\Documents\Desenvolvimento_C_Sharp\OrientacaoObjetos\obj\Debug\net8.0-windows\OrientacaoObjetos.AssemblyInfoInputs.cache
+D:\Users\0048609\Documents\Desenvolvimento_C_Sharp\OrientacaoObjetos\obj\Debug\net8.0-windows\OrientacaoObjetos.AssemblyInfo.cs
+D:\Users\0048609\Documents\Desenvolvimento_C_Sharp\OrientacaoObjetos\obj\Debug\net8.0-windows\OrientacaoObjetos.csproj.CoreCompileInputs.cache
+D:\Users\0048609\Documents\Desenvolvimento_C_Sharp\OrientacaoObjetos\obj\Debug\net8.0-windows\OrientacaoObjetos.sourcelink.json
+D:\Users\0048609\Documents\Desenvolvimento_C_Sharp\OrientacaoObjetos\obj\Debug\net8.0-windows\OrientacaoObjetos.dll
+D:\Users\0048609\Documents\Desenvolvimento_C_Sharp\OrientacaoObjetos\obj\Debug\net8.0-windows\refint\OrientacaoObjetos.dll
+D:\Users\0048609\Documents\Desenvolvimento_C_Sharp\OrientacaoObjetos\obj\Debug\net8.0-windows\OrientacaoObjetos.pdb
+D:\Users\0048609\Documents\Desenvolvimento_C_Sharp\OrientacaoObjetos\obj\Debug\net8.0-windows\OrientacaoObjetos.genruntimeconfig.cache
+D:\Users\0048609\Documents\Desenvolvimento_C_Sharp\OrientacaoObjetos\obj\Debug\net8.0-windows\ref\OrientacaoObjetos.dll

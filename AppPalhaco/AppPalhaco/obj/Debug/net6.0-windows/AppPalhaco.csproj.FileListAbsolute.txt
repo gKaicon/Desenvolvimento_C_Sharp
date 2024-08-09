@@ -1,0 +1,53 @@
+C:\Users\Roberta\Desktop\Sistemas de Informação - IFMG-SJE\5º Período\LP II\Projetos CSharp\AppPalhaco\AppPalhaco\bin\Debug\net6.0-windows\AppPalhaco.exe
+C:\Users\Roberta\Desktop\Sistemas de Informação - IFMG-SJE\5º Período\LP II\Projetos CSharp\AppPalhaco\AppPalhaco\bin\Debug\net6.0-windows\AppPalhaco.deps.json
+C:\Users\Roberta\Desktop\Sistemas de Informação - IFMG-SJE\5º Período\LP II\Projetos CSharp\AppPalhaco\AppPalhaco\bin\Debug\net6.0-windows\AppPalhaco.runtimeconfig.json
+C:\Users\Roberta\Desktop\Sistemas de Informação - IFMG-SJE\5º Período\LP II\Projetos CSharp\AppPalhaco\AppPalhaco\bin\Debug\net6.0-windows\AppPalhaco.dll
+C:\Users\Roberta\Desktop\Sistemas de Informação - IFMG-SJE\5º Período\LP II\Projetos CSharp\AppPalhaco\AppPalhaco\bin\Debug\net6.0-windows\AppPalhaco.pdb
+C:\Users\Roberta\Desktop\Sistemas de Informação - IFMG-SJE\5º Período\LP II\Projetos CSharp\AppPalhaco\AppPalhaco\obj\Debug\net6.0-windows\AppPalhaco.csproj.AssemblyReference.cache
+C:\Users\Roberta\Desktop\Sistemas de Informação - IFMG-SJE\5º Período\LP II\Projetos CSharp\AppPalhaco\AppPalhaco\obj\Debug\net6.0-windows\AppPalhaco.Form1.resources
+C:\Users\Roberta\Desktop\Sistemas de Informação - IFMG-SJE\5º Período\LP II\Projetos CSharp\AppPalhaco\AppPalhaco\obj\Debug\net6.0-windows\AppPalhaco.csproj.GenerateResource.cache
+C:\Users\Roberta\Desktop\Sistemas de Informação - IFMG-SJE\5º Período\LP II\Projetos CSharp\AppPalhaco\AppPalhaco\obj\Debug\net6.0-windows\AppPalhaco.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Roberta\Desktop\Sistemas de Informação - IFMG-SJE\5º Período\LP II\Projetos CSharp\AppPalhaco\AppPalhaco\obj\Debug\net6.0-windows\AppPalhaco.AssemblyInfoInputs.cache
+C:\Users\Roberta\Desktop\Sistemas de Informação - IFMG-SJE\5º Período\LP II\Projetos CSharp\AppPalhaco\AppPalhaco\obj\Debug\net6.0-windows\AppPalhaco.AssemblyInfo.cs
+C:\Users\Roberta\Desktop\Sistemas de Informação - IFMG-SJE\5º Período\LP II\Projetos CSharp\AppPalhaco\AppPalhaco\obj\Debug\net6.0-windows\AppPalhaco.csproj.CoreCompileInputs.cache
+C:\Users\Roberta\Desktop\Sistemas de Informação - IFMG-SJE\5º Período\LP II\Projetos CSharp\AppPalhaco\AppPalhaco\obj\Debug\net6.0-windows\AppPalhaco.dll
+C:\Users\Roberta\Desktop\Sistemas de Informação - IFMG-SJE\5º Período\LP II\Projetos CSharp\AppPalhaco\AppPalhaco\obj\Debug\net6.0-windows\refint\AppPalhaco.dll
+C:\Users\Roberta\Desktop\Sistemas de Informação - IFMG-SJE\5º Período\LP II\Projetos CSharp\AppPalhaco\AppPalhaco\obj\Debug\net6.0-windows\AppPalhaco.pdb
+C:\Users\Roberta\Desktop\Sistemas de Informação - IFMG-SJE\5º Período\LP II\Projetos CSharp\AppPalhaco\AppPalhaco\obj\Debug\net6.0-windows\AppPalhaco.genruntimeconfig.cache
+C:\Users\Roberta\Desktop\Sistemas de Informação - IFMG-SJE\5º Período\LP II\Projetos CSharp\AppPalhaco\AppPalhaco\obj\Debug\net6.0-windows\ref\AppPalhaco.dll
+C:\Users\Roberta\Desktop\Sistemas de Informação - IFMG-SJE\5º Período\LP II\Projetos CSharp\AppPalhaco\AppPalhaco\obj\Debug\net6.0-windows\AppPalhaco.Properties.Resources.resources
+D:\Users\0070156\Downloads\AppPalhaco-20240802T133752Z-001\AppPalhaco\AppPalhaco\bin\Debug\net6.0-windows\AppPalhaco.exe
+D:\Users\0070156\Downloads\AppPalhaco-20240802T133752Z-001\AppPalhaco\AppPalhaco\bin\Debug\net6.0-windows\AppPalhaco.deps.json
+D:\Users\0070156\Downloads\AppPalhaco-20240802T133752Z-001\AppPalhaco\AppPalhaco\bin\Debug\net6.0-windows\AppPalhaco.runtimeconfig.json
+D:\Users\0070156\Downloads\AppPalhaco-20240802T133752Z-001\AppPalhaco\AppPalhaco\bin\Debug\net6.0-windows\AppPalhaco.dll
+D:\Users\0070156\Downloads\AppPalhaco-20240802T133752Z-001\AppPalhaco\AppPalhaco\bin\Debug\net6.0-windows\AppPalhaco.pdb
+D:\Users\0070156\Downloads\AppPalhaco-20240802T133752Z-001\AppPalhaco\AppPalhaco\obj\Debug\net6.0-windows\AppPalhaco.Form1.resources
+D:\Users\0070156\Downloads\AppPalhaco-20240802T133752Z-001\AppPalhaco\AppPalhaco\obj\Debug\net6.0-windows\AppPalhaco.Properties.Resources.resources
+D:\Users\0070156\Downloads\AppPalhaco-20240802T133752Z-001\AppPalhaco\AppPalhaco\obj\Debug\net6.0-windows\AppPalhaco.csproj.GenerateResource.cache
+D:\Users\0070156\Downloads\AppPalhaco-20240802T133752Z-001\AppPalhaco\AppPalhaco\obj\Debug\net6.0-windows\AppPalhaco.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\0070156\Downloads\AppPalhaco-20240802T133752Z-001\AppPalhaco\AppPalhaco\obj\Debug\net6.0-windows\AppPalhaco.AssemblyInfoInputs.cache
+D:\Users\0070156\Downloads\AppPalhaco-20240802T133752Z-001\AppPalhaco\AppPalhaco\obj\Debug\net6.0-windows\AppPalhaco.AssemblyInfo.cs
+D:\Users\0070156\Downloads\AppPalhaco-20240802T133752Z-001\AppPalhaco\AppPalhaco\obj\Debug\net6.0-windows\AppPalhaco.csproj.CoreCompileInputs.cache
+D:\Users\0070156\Downloads\AppPalhaco-20240802T133752Z-001\AppPalhaco\AppPalhaco\obj\Debug\net6.0-windows\AppPalhaco.dll
+D:\Users\0070156\Downloads\AppPalhaco-20240802T133752Z-001\AppPalhaco\AppPalhaco\obj\Debug\net6.0-windows\refint\AppPalhaco.dll
+D:\Users\0070156\Downloads\AppPalhaco-20240802T133752Z-001\AppPalhaco\AppPalhaco\obj\Debug\net6.0-windows\AppPalhaco.pdb
+D:\Users\0070156\Downloads\AppPalhaco-20240802T133752Z-001\AppPalhaco\AppPalhaco\obj\Debug\net6.0-windows\AppPalhaco.genruntimeconfig.cache
+D:\Users\0070156\Downloads\AppPalhaco-20240802T133752Z-001\AppPalhaco\AppPalhaco\obj\Debug\net6.0-windows\ref\AppPalhaco.dll
+D:\Users\0048609\Documents\Desenvolvimento_C_Sharp\AppPalhaco\AppPalhaco\bin\Debug\net6.0-windows\AppPalhaco.exe
+D:\Users\0048609\Documents\Desenvolvimento_C_Sharp\AppPalhaco\AppPalhaco\bin\Debug\net6.0-windows\AppPalhaco.deps.json
+D:\Users\0048609\Documents\Desenvolvimento_C_Sharp\AppPalhaco\AppPalhaco\bin\Debug\net6.0-windows\AppPalhaco.runtimeconfig.json
+D:\Users\0048609\Documents\Desenvolvimento_C_Sharp\AppPalhaco\AppPalhaco\bin\Debug\net6.0-windows\AppPalhaco.dll
+D:\Users\0048609\Documents\Desenvolvimento_C_Sharp\AppPalhaco\AppPalhaco\bin\Debug\net6.0-windows\AppPalhaco.pdb
+D:\Users\0048609\Documents\Desenvolvimento_C_Sharp\AppPalhaco\AppPalhaco\obj\Debug\net6.0-windows\AppPalhaco.Form1.resources
+D:\Users\0048609\Documents\Desenvolvimento_C_Sharp\AppPalhaco\AppPalhaco\obj\Debug\net6.0-windows\AppPalhaco.Properties.Resources.resources
+D:\Users\0048609\Documents\Desenvolvimento_C_Sharp\AppPalhaco\AppPalhaco\obj\Debug\net6.0-windows\AppPalhaco.csproj.GenerateResource.cache
+D:\Users\0048609\Documents\Desenvolvimento_C_Sharp\AppPalhaco\AppPalhaco\obj\Debug\net6.0-windows\AppPalhaco.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\0048609\Documents\Desenvolvimento_C_Sharp\AppPalhaco\AppPalhaco\obj\Debug\net6.0-windows\AppPalhaco.AssemblyInfoInputs.cache
+D:\Users\0048609\Documents\Desenvolvimento_C_Sharp\AppPalhaco\AppPalhaco\obj\Debug\net6.0-windows\AppPalhaco.AssemblyInfo.cs
+D:\Users\0048609\Documents\Desenvolvimento_C_Sharp\AppPalhaco\AppPalhaco\obj\Debug\net6.0-windows\AppPalhaco.csproj.CoreCompileInputs.cache
+D:\Users\0048609\Documents\Desenvolvimento_C_Sharp\AppPalhaco\AppPalhaco\obj\Debug\net6.0-windows\AppPalhaco.sourcelink.json
+D:\Users\0048609\Documents\Desenvolvimento_C_Sharp\AppPalhaco\AppPalhaco\obj\Debug\net6.0-windows\AppPalhaco.dll
+D:\Users\0048609\Documents\Desenvolvimento_C_Sharp\AppPalhaco\AppPalhaco\obj\Debug\net6.0-windows\refint\AppPalhaco.dll
+D:\Users\0048609\Documents\Desenvolvimento_C_Sharp\AppPalhaco\AppPalhaco\obj\Debug\net6.0-windows\AppPalhaco.pdb
+D:\Users\0048609\Documents\Desenvolvimento_C_Sharp\AppPalhaco\AppPalhaco\obj\Debug\net6.0-windows\AppPalhaco.genruntimeconfig.cache
+D:\Users\0048609\Documents\Desenvolvimento_C_Sharp\AppPalhaco\AppPalhaco\obj\Debug\net6.0-windows\ref\AppPalhaco.dll
