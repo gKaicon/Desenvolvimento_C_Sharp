@@ -1,0 +1,12 @@
+D:\Users\0048609\Documents\Desenvolvimento_C_Sharp\agendaApp\agendaApp\bin\Debug\agendaApp.exe.config
+D:\Users\0048609\Documents\Desenvolvimento_C_Sharp\agendaApp\agendaApp\bin\Debug\agendaApp.exe
+D:\Users\0048609\Documents\Desenvolvimento_C_Sharp\agendaApp\agendaApp\bin\Debug\agendaApp.pdb
+D:\Users\0048609\Documents\Desenvolvimento_C_Sharp\agendaApp\agendaApp\obj\Debug\agendaApp.csproj.AssemblyReference.cache
+D:\Users\0048609\Documents\Desenvolvimento_C_Sharp\agendaApp\agendaApp\obj\Debug\agendaApp.Form1.resources
+D:\Users\0048609\Documents\Desenvolvimento_C_Sharp\agendaApp\agendaApp\obj\Debug\agendaApp.Properties.Resources.resources
+D:\Users\0048609\Documents\Desenvolvimento_C_Sharp\agendaApp\agendaApp\obj\Debug\agendaApp.csproj.GenerateResource.cache
+D:\Users\0048609\Documents\Desenvolvimento_C_Sharp\agendaApp\agendaApp\obj\Debug\agendaApp.csproj.CoreCompileInputs.cache
+D:\Users\0048609\Documents\Desenvolvimento_C_Sharp\agendaApp\agendaApp\obj\Debug\agendaApp.exe
+D:\Users\0048609\Documents\Desenvolvimento_C_Sharp\agendaApp\agendaApp\obj\Debug\agendaApp.pdb
+D:\Users\0048609\Documents\Desenvolvimento_C_Sharp\agendaApp\agendaApp\obj\Debug\agendaApp.Form2.resources
+D:\Users\0048609\Documents\Desenvolvimento_C_Sharp\agendaApp\agendaApp\obj\Debug\agendaApp.Form3.resources
