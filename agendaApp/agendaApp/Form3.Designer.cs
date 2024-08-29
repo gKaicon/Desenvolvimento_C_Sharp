@@ -29,16 +29,12 @@
         private void InitializeComponent()
         {
             this.components = new System.ComponentModel.Container();
-            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Form3));
             System.Windows.Forms.Label idLabel;
             System.Windows.Forms.Label nomeLabel;
             System.Windows.Forms.Label cpfLabel;
             System.Windows.Forms.Label emailLabel;
             System.Windows.Forms.Label telefoneLabel;
-            this.dbAgendaDataSet = new agendaApp.DbAgendaDataSet();
-            this.agendaBindingSource = new System.Windows.Forms.BindingSource(this.components);
-            this.agendaTableAdapter = new agendaApp.DbAgendaDataSetTableAdapters.AgendaTableAdapter();
-            this.tableAdapterManager = new agendaApp.DbAgendaDataSetTableAdapters.TableAdapterManager();
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Form3));
             this.agendaBindingNavigator = new System.Windows.Forms.BindingNavigator(this.components);
             this.bindingNavigatorAddNewItem = new System.Windows.Forms.ToolStripButton();
             this.bindingNavigatorCountItem = new System.Windows.Forms.ToolStripLabel();
@@ -53,11 +49,6 @@
             this.bindingNavigatorSeparator2 = new System.Windows.Forms.ToolStripSeparator();
             this.agendaBindingNavigatorSaveItem = new System.Windows.Forms.ToolStripButton();
             this.agendaDataGridView = new System.Windows.Forms.DataGridView();
-            this.dataGridViewTextBoxColumn1 = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.dataGridViewTextBoxColumn2 = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.dataGridViewTextBoxColumn3 = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.dataGridViewTextBoxColumn4 = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.dataGridViewTextBoxColumn5 = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.label1 = new System.Windows.Forms.Label();
             this.textBox1 = new System.Windows.Forms.TextBox();
             this.idTextBox = new System.Windows.Forms.TextBox();
@@ -65,37 +56,73 @@
             this.cpfTextBox = new System.Windows.Forms.TextBox();
             this.emailTextBox = new System.Windows.Forms.TextBox();
             this.telefoneTextBox = new System.Windows.Forms.TextBox();
+            this.button1 = new System.Windows.Forms.Button();
+            this.button2 = new System.Windows.Forms.Button();
+            this.agendaBindingSource = new System.Windows.Forms.BindingSource(this.components);
+            this.dbAgendaDataSet = new agendaApp.DbAgendaDataSet();
+            this.agendaTableAdapter = new agendaApp.DbAgendaDataSetTableAdapters.AgendaTableAdapter();
+            this.tableAdapterManager = new agendaApp.DbAgendaDataSetTableAdapters.TableAdapterManager();
+            this.dataGridViewTextBoxColumn1 = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.dataGridViewTextBoxColumn2 = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.dataGridViewTextBoxColumn3 = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.dataGridViewTextBoxColumn4 = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.dataGridViewTextBoxColumn5 = new System.Windows.Forms.DataGridViewTextBoxColumn();
             idLabel = new System.Windows.Forms.Label();
             nomeLabel = new System.Windows.Forms.Label();
             cpfLabel = new System.Windows.Forms.Label();
             emailLabel = new System.Windows.Forms.Label();
             telefoneLabel = new System.Windows.Forms.Label();
-            ((System.ComponentModel.ISupportInitialize)(this.dbAgendaDataSet)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.agendaBindingSource)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.agendaBindingNavigator)).BeginInit();
             this.agendaBindingNavigator.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.agendaDataGridView)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.agendaBindingSource)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.dbAgendaDataSet)).BeginInit();
             this.SuspendLayout();
             // 
-            // dbAgendaDataSet
+            // idLabel
             // 
-            this.dbAgendaDataSet.DataSetName = "DbAgendaDataSet";
-            this.dbAgendaDataSet.SchemaSerializationMode = System.Data.SchemaSerializationMode.IncludeSchema;
+            idLabel.AutoSize = true;
+            idLabel.Location = new System.Drawing.Point(32, 56);
+            idLabel.Name = "idLabel";
+            idLabel.Size = new System.Drawing.Size(18, 13);
+            idLabel.TabIndex = 4;
+            idLabel.Text = "id:";
             // 
-            // agendaBindingSource
+            // nomeLabel
             // 
-            this.agendaBindingSource.DataMember = "Agenda";
-            this.agendaBindingSource.DataSource = this.dbAgendaDataSet;
+            nomeLabel.AutoSize = true;
+            nomeLabel.Location = new System.Drawing.Point(32, 82);
+            nomeLabel.Name = "nomeLabel";
+            nomeLabel.Size = new System.Drawing.Size(36, 13);
+            nomeLabel.TabIndex = 6;
+            nomeLabel.Text = "nome:";
             // 
-            // agendaTableAdapter
+            // cpfLabel
             // 
-            this.agendaTableAdapter.ClearBeforeFill = true;
+            cpfLabel.AutoSize = true;
+            cpfLabel.Location = new System.Drawing.Point(32, 108);
+            cpfLabel.Name = "cpfLabel";
+            cpfLabel.Size = new System.Drawing.Size(25, 13);
+            cpfLabel.TabIndex = 8;
+            cpfLabel.Text = "cpf:";
             // 
-            // tableAdapterManager
+            // emailLabel
             // 
-            this.tableAdapterManager.AgendaTableAdapter = this.agendaTableAdapter;
-            this.tableAdapterManager.BackupDataSetBeforeUpdate = false;
-            this.tableAdapterManager.UpdateOrder = agendaApp.DbAgendaDataSetTableAdapters.TableAdapterManager.UpdateOrderOption.InsertUpdateDelete;
+            emailLabel.AutoSize = true;
+            emailLabel.Location = new System.Drawing.Point(32, 134);
+            emailLabel.Name = "emailLabel";
+            emailLabel.Size = new System.Drawing.Size(34, 13);
+            emailLabel.TabIndex = 10;
+            emailLabel.Text = "email:";
+            // 
+            // telefoneLabel
+            // 
+            telefoneLabel.AutoSize = true;
+            telefoneLabel.Location = new System.Drawing.Point(32, 160);
+            telefoneLabel.Name = "telefoneLabel";
+            telefoneLabel.Size = new System.Drawing.Size(48, 13);
+            telefoneLabel.TabIndex = 12;
+            telefoneLabel.Text = "telefone:";
             // 
             // agendaBindingNavigator
             // 
@@ -123,7 +150,7 @@
             this.agendaBindingNavigator.MovePreviousItem = this.bindingNavigatorMovePreviousItem;
             this.agendaBindingNavigator.Name = "agendaBindingNavigator";
             this.agendaBindingNavigator.PositionItem = this.bindingNavigatorPositionItem;
-            this.agendaBindingNavigator.Size = new System.Drawing.Size(579, 25);
+            this.agendaBindingNavigator.Size = new System.Drawing.Size(730, 25);
             this.agendaBindingNavigator.TabIndex = 0;
             this.agendaBindingNavigator.Text = "bindingNavigator1";
             // 
@@ -235,45 +262,14 @@
             this.agendaDataGridView.DataSource = this.agendaBindingSource;
             this.agendaDataGridView.Location = new System.Drawing.Point(12, 243);
             this.agendaDataGridView.Name = "agendaDataGridView";
-            this.agendaDataGridView.Size = new System.Drawing.Size(543, 151);
+            this.agendaDataGridView.Size = new System.Drawing.Size(706, 151);
             this.agendaDataGridView.TabIndex = 1;
             this.agendaDataGridView.CellContentClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.agendaDataGridView_CellContentClick);
-            // 
-            // dataGridViewTextBoxColumn1
-            // 
-            this.dataGridViewTextBoxColumn1.DataPropertyName = "id";
-            this.dataGridViewTextBoxColumn1.HeaderText = "id";
-            this.dataGridViewTextBoxColumn1.Name = "dataGridViewTextBoxColumn1";
-            this.dataGridViewTextBoxColumn1.ReadOnly = true;
-            // 
-            // dataGridViewTextBoxColumn2
-            // 
-            this.dataGridViewTextBoxColumn2.DataPropertyName = "nome";
-            this.dataGridViewTextBoxColumn2.HeaderText = "nome";
-            this.dataGridViewTextBoxColumn2.Name = "dataGridViewTextBoxColumn2";
-            // 
-            // dataGridViewTextBoxColumn3
-            // 
-            this.dataGridViewTextBoxColumn3.DataPropertyName = "cpf";
-            this.dataGridViewTextBoxColumn3.HeaderText = "cpf";
-            this.dataGridViewTextBoxColumn3.Name = "dataGridViewTextBoxColumn3";
-            // 
-            // dataGridViewTextBoxColumn4
-            // 
-            this.dataGridViewTextBoxColumn4.DataPropertyName = "email";
-            this.dataGridViewTextBoxColumn4.HeaderText = "email";
-            this.dataGridViewTextBoxColumn4.Name = "dataGridViewTextBoxColumn4";
-            // 
-            // dataGridViewTextBoxColumn5
-            // 
-            this.dataGridViewTextBoxColumn5.DataPropertyName = "telefone";
-            this.dataGridViewTextBoxColumn5.HeaderText = "telefone";
-            this.dataGridViewTextBoxColumn5.Name = "dataGridViewTextBoxColumn5";
             // 
             // label1
             // 
             this.label1.AutoSize = true;
-            this.label1.Location = new System.Drawing.Point(14, 193);
+            this.label1.Location = new System.Drawing.Point(14, 225);
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(103, 13);
             this.label1.TabIndex = 2;
@@ -281,102 +277,136 @@
             // 
             // textBox1
             // 
-            this.textBox1.Location = new System.Drawing.Point(124, 185);
+            this.textBox1.Location = new System.Drawing.Point(124, 217);
             this.textBox1.Name = "textBox1";
             this.textBox1.Size = new System.Drawing.Size(217, 20);
             this.textBox1.TabIndex = 3;
             this.textBox1.TextChanged += new System.EventHandler(this.textBox1_TextChanged);
-            // 
-            // idLabel
-            // 
-            idLabel.AutoSize = true;
-            idLabel.Location = new System.Drawing.Point(32, 56);
-            idLabel.Name = "idLabel";
-            idLabel.Size = new System.Drawing.Size(18, 13);
-            idLabel.TabIndex = 4;
-            idLabel.Text = "id:";
             // 
             // idTextBox
             // 
             this.idTextBox.DataBindings.Add(new System.Windows.Forms.Binding("Text", this.agendaBindingSource, "id", true));
             this.idTextBox.Location = new System.Drawing.Point(86, 53);
             this.idTextBox.Name = "idTextBox";
-            this.idTextBox.Size = new System.Drawing.Size(100, 20);
+            this.idTextBox.Size = new System.Drawing.Size(31, 20);
             this.idTextBox.TabIndex = 5;
-            // 
-            // nomeLabel
-            // 
-            nomeLabel.AutoSize = true;
-            nomeLabel.Location = new System.Drawing.Point(32, 82);
-            nomeLabel.Name = "nomeLabel";
-            nomeLabel.Size = new System.Drawing.Size(36, 13);
-            nomeLabel.TabIndex = 6;
-            nomeLabel.Text = "nome:";
             // 
             // nomeTextBox
             // 
             this.nomeTextBox.DataBindings.Add(new System.Windows.Forms.Binding("Text", this.agendaBindingSource, "nome", true));
             this.nomeTextBox.Location = new System.Drawing.Point(86, 79);
             this.nomeTextBox.Name = "nomeTextBox";
-            this.nomeTextBox.Size = new System.Drawing.Size(100, 20);
+            this.nomeTextBox.Size = new System.Drawing.Size(363, 20);
             this.nomeTextBox.TabIndex = 7;
-            // 
-            // cpfLabel
-            // 
-            cpfLabel.AutoSize = true;
-            cpfLabel.Location = new System.Drawing.Point(32, 108);
-            cpfLabel.Name = "cpfLabel";
-            cpfLabel.Size = new System.Drawing.Size(25, 13);
-            cpfLabel.TabIndex = 8;
-            cpfLabel.Text = "cpf:";
             // 
             // cpfTextBox
             // 
             this.cpfTextBox.DataBindings.Add(new System.Windows.Forms.Binding("Text", this.agendaBindingSource, "cpf", true));
             this.cpfTextBox.Location = new System.Drawing.Point(86, 105);
             this.cpfTextBox.Name = "cpfTextBox";
-            this.cpfTextBox.Size = new System.Drawing.Size(100, 20);
+            this.cpfTextBox.Size = new System.Drawing.Size(183, 20);
             this.cpfTextBox.TabIndex = 9;
-            // 
-            // emailLabel
-            // 
-            emailLabel.AutoSize = true;
-            emailLabel.Location = new System.Drawing.Point(32, 134);
-            emailLabel.Name = "emailLabel";
-            emailLabel.Size = new System.Drawing.Size(34, 13);
-            emailLabel.TabIndex = 10;
-            emailLabel.Text = "email:";
             // 
             // emailTextBox
             // 
             this.emailTextBox.DataBindings.Add(new System.Windows.Forms.Binding("Text", this.agendaBindingSource, "email", true));
             this.emailTextBox.Location = new System.Drawing.Point(86, 131);
             this.emailTextBox.Name = "emailTextBox";
-            this.emailTextBox.Size = new System.Drawing.Size(100, 20);
+            this.emailTextBox.Size = new System.Drawing.Size(273, 20);
             this.emailTextBox.TabIndex = 11;
-            // 
-            // telefoneLabel
-            // 
-            telefoneLabel.AutoSize = true;
-            telefoneLabel.Location = new System.Drawing.Point(32, 160);
-            telefoneLabel.Name = "telefoneLabel";
-            telefoneLabel.Size = new System.Drawing.Size(48, 13);
-            telefoneLabel.TabIndex = 12;
-            telefoneLabel.Text = "telefone:";
             // 
             // telefoneTextBox
             // 
             this.telefoneTextBox.DataBindings.Add(new System.Windows.Forms.Binding("Text", this.agendaBindingSource, "telefone", true));
             this.telefoneTextBox.Location = new System.Drawing.Point(86, 157);
             this.telefoneTextBox.Name = "telefoneTextBox";
-            this.telefoneTextBox.Size = new System.Drawing.Size(100, 20);
+            this.telefoneTextBox.Size = new System.Drawing.Size(136, 20);
             this.telefoneTextBox.TabIndex = 13;
+            // 
+            // button1
+            // 
+            this.button1.Location = new System.Drawing.Point(86, 188);
+            this.button1.Name = "button1";
+            this.button1.Size = new System.Drawing.Size(75, 23);
+            this.button1.TabIndex = 14;
+            this.button1.Text = "Atualizar";
+            this.button1.UseVisualStyleBackColor = true;
+            this.button1.Click += new System.EventHandler(this.button1_Click);
+            // 
+            // button2
+            // 
+            this.button2.Location = new System.Drawing.Point(167, 188);
+            this.button2.Name = "button2";
+            this.button2.Size = new System.Drawing.Size(75, 23);
+            this.button2.TabIndex = 15;
+            this.button2.Text = "Deletar";
+            this.button2.UseVisualStyleBackColor = true;
+            this.button2.Click += new System.EventHandler(this.button2_Click);
+            // 
+            // agendaBindingSource
+            // 
+            this.agendaBindingSource.DataMember = "Agenda";
+            this.agendaBindingSource.DataSource = this.dbAgendaDataSet;
+            // 
+            // dbAgendaDataSet
+            // 
+            this.dbAgendaDataSet.DataSetName = "DbAgendaDataSet";
+            this.dbAgendaDataSet.SchemaSerializationMode = System.Data.SchemaSerializationMode.IncludeSchema;
+            // 
+            // agendaTableAdapter
+            // 
+            this.agendaTableAdapter.ClearBeforeFill = true;
+            // 
+            // tableAdapterManager
+            // 
+            this.tableAdapterManager.AgendaTableAdapter = this.agendaTableAdapter;
+            this.tableAdapterManager.BackupDataSetBeforeUpdate = false;
+            this.tableAdapterManager.UpdateOrder = agendaApp.DbAgendaDataSetTableAdapters.TableAdapterManager.UpdateOrderOption.InsertUpdateDelete;
+            // 
+            // dataGridViewTextBoxColumn1
+            // 
+            this.dataGridViewTextBoxColumn1.AutoSizeMode = System.Windows.Forms.DataGridViewAutoSizeColumnMode.AllCells;
+            this.dataGridViewTextBoxColumn1.DataPropertyName = "id";
+            this.dataGridViewTextBoxColumn1.HeaderText = "id";
+            this.dataGridViewTextBoxColumn1.Name = "dataGridViewTextBoxColumn1";
+            this.dataGridViewTextBoxColumn1.ReadOnly = true;
+            this.dataGridViewTextBoxColumn1.Width = 40;
+            // 
+            // dataGridViewTextBoxColumn2
+            // 
+            this.dataGridViewTextBoxColumn2.AutoSizeMode = System.Windows.Forms.DataGridViewAutoSizeColumnMode.Fill;
+            this.dataGridViewTextBoxColumn2.DataPropertyName = "nome";
+            this.dataGridViewTextBoxColumn2.HeaderText = "nome";
+            this.dataGridViewTextBoxColumn2.Name = "dataGridViewTextBoxColumn2";
+            // 
+            // dataGridViewTextBoxColumn3
+            // 
+            this.dataGridViewTextBoxColumn3.AutoSizeMode = System.Windows.Forms.DataGridViewAutoSizeColumnMode.Fill;
+            this.dataGridViewTextBoxColumn3.DataPropertyName = "cpf";
+            this.dataGridViewTextBoxColumn3.HeaderText = "cpf";
+            this.dataGridViewTextBoxColumn3.Name = "dataGridViewTextBoxColumn3";
+            // 
+            // dataGridViewTextBoxColumn4
+            // 
+            this.dataGridViewTextBoxColumn4.AutoSizeMode = System.Windows.Forms.DataGridViewAutoSizeColumnMode.Fill;
+            this.dataGridViewTextBoxColumn4.DataPropertyName = "email";
+            this.dataGridViewTextBoxColumn4.HeaderText = "email";
+            this.dataGridViewTextBoxColumn4.Name = "dataGridViewTextBoxColumn4";
+            // 
+            // dataGridViewTextBoxColumn5
+            // 
+            this.dataGridViewTextBoxColumn5.AutoSizeMode = System.Windows.Forms.DataGridViewAutoSizeColumnMode.Fill;
+            this.dataGridViewTextBoxColumn5.DataPropertyName = "telefone";
+            this.dataGridViewTextBoxColumn5.HeaderText = "telefone";
+            this.dataGridViewTextBoxColumn5.Name = "dataGridViewTextBoxColumn5";
             // 
             // Form3
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(579, 421);
+            this.ClientSize = new System.Drawing.Size(730, 421);
+            this.Controls.Add(this.button2);
+            this.Controls.Add(this.button1);
             this.Controls.Add(idLabel);
             this.Controls.Add(this.idTextBox);
             this.Controls.Add(nomeLabel);
@@ -394,12 +424,12 @@
             this.Name = "Form3";
             this.Text = "Form3";
             this.Load += new System.EventHandler(this.Form3_Load);
-            ((System.ComponentModel.ISupportInitialize)(this.dbAgendaDataSet)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.agendaBindingSource)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.agendaBindingNavigator)).EndInit();
             this.agendaBindingNavigator.ResumeLayout(false);
             this.agendaBindingNavigator.PerformLayout();
             ((System.ComponentModel.ISupportInitialize)(this.agendaDataGridView)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.agendaBindingSource)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.dbAgendaDataSet)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -425,11 +455,6 @@
         private System.Windows.Forms.ToolStripSeparator bindingNavigatorSeparator2;
         private System.Windows.Forms.ToolStripButton agendaBindingNavigatorSaveItem;
         private System.Windows.Forms.DataGridView agendaDataGridView;
-        private System.Windows.Forms.DataGridViewTextBoxColumn dataGridViewTextBoxColumn1;
-        private System.Windows.Forms.DataGridViewTextBoxColumn dataGridViewTextBoxColumn2;
-        private System.Windows.Forms.DataGridViewTextBoxColumn dataGridViewTextBoxColumn3;
-        private System.Windows.Forms.DataGridViewTextBoxColumn dataGridViewTextBoxColumn4;
-        private System.Windows.Forms.DataGridViewTextBoxColumn dataGridViewTextBoxColumn5;
         private System.Windows.Forms.Label label1;
         private System.Windows.Forms.TextBox textBox1;
         private System.Windows.Forms.TextBox idTextBox;
@@ -437,5 +462,12 @@
         private System.Windows.Forms.TextBox cpfTextBox;
         private System.Windows.Forms.TextBox emailTextBox;
         private System.Windows.Forms.TextBox telefoneTextBox;
+        private System.Windows.Forms.Button button1;
+        private System.Windows.Forms.Button button2;
+        private System.Windows.Forms.DataGridViewTextBoxColumn dataGridViewTextBoxColumn1;
+        private System.Windows.Forms.DataGridViewTextBoxColumn dataGridViewTextBoxColumn2;
+        private System.Windows.Forms.DataGridViewTextBoxColumn dataGridViewTextBoxColumn3;
+        private System.Windows.Forms.DataGridViewTextBoxColumn dataGridViewTextBoxColumn4;
+        private System.Windows.Forms.DataGridViewTextBoxColumn dataGridViewTextBoxColumn5;
     }
 }

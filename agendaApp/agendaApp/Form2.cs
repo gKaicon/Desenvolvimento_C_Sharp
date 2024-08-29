@@ -7,6 +7,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using static System.Windows.Forms.VisualStyles.VisualStyleElement;
 
 namespace agendaApp
 {
@@ -34,11 +35,9 @@ namespace agendaApp
 
         private void button1_Click(object sender, EventArgs e)
         {
-            this.agendaTableAdapter.UpdateQuery(nomeTextBox.Text, cpfTextBox.Text, emailTextBox.Text, telefoneTextBox.Text, Convert.ToInt32(idTextBox.Text));
-            MessageBox.Show("Atualização Realizada com Sucesso");
+            this.agendaTableAdapter.InsertQuery(textBox1.Text, textBox2.Text, textBox3.Text, textBox4.Text);
+            MessageBox.Show("Inserção feita com sucesso");
             this.Dispose();
-            Form3 f3 = new Form3();
-            f3.ShowDialog();
         }
     }
 }
