@@ -1,0 +1,14 @@
+D:\Users\0048609\Documents\Desenvolvimento_C_Sharp\q7Funcionario\q7Funcionario\bin\Debug\q7Funcionario.exe.config
+D:\Users\0048609\Documents\Desenvolvimento_C_Sharp\q7Funcionario\q7Funcionario\bin\Debug\q7Funcionario.exe
+D:\Users\0048609\Documents\Desenvolvimento_C_Sharp\q7Funcionario\q7Funcionario\bin\Debug\q7Funcionario.pdb
+D:\Users\0048609\Documents\Desenvolvimento_C_Sharp\q7Funcionario\q7Funcionario\obj\Debug\q7Funcionario.csproj.AssemblyReference.cache
+D:\Users\0048609\Documents\Desenvolvimento_C_Sharp\q7Funcionario\q7Funcionario\obj\Debug\q7Funcionario.FormMain.resources
+D:\Users\0048609\Documents\Desenvolvimento_C_Sharp\q7Funcionario\q7Funcionario\obj\Debug\q7Funcionario.Properties.Resources.resources
+D:\Users\0048609\Documents\Desenvolvimento_C_Sharp\q7Funcionario\q7Funcionario\obj\Debug\q7Funcionario.csproj.GenerateResource.cache
+D:\Users\0048609\Documents\Desenvolvimento_C_Sharp\q7Funcionario\q7Funcionario\obj\Debug\q7Funcionario.csproj.CoreCompileInputs.cache
+D:\Users\0048609\Documents\Desenvolvimento_C_Sharp\q7Funcionario\q7Funcionario\obj\Debug\q7Funcionario.exe
+D:\Users\0048609\Documents\Desenvolvimento_C_Sharp\q7Funcionario\q7Funcionario\obj\Debug\q7Funcionario.pdb
+D:\Users\0048609\Documents\Desenvolvimento_C_Sharp\q7Funcionario\q7Funcionario\bin\Debug\DB_Func.mdf
+D:\Users\0048609\Documents\Desenvolvimento_C_Sharp\q7Funcionario\q7Funcionario\bin\Debug\DB_Func_log.ldf
+D:\Users\0048609\Documents\Desenvolvimento_C_Sharp\q7Funcionario\q7Funcionario\obj\Debug\q7Funcionario.FormInsercao.resources
+D:\Users\0048609\Documents\Desenvolvimento_C_Sharp\q7Funcionario\q7Funcionario\obj\Debug\q7Funcionario.FormView.resources

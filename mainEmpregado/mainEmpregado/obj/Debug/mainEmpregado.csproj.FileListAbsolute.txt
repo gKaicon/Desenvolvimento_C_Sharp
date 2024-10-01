@@ -1,0 +1,7 @@
+D:\Users\0048609\Documents\Desenvolvimento_C_Sharp\mainEmpregado\mainEmpregado\obj\Debug\mainEmpregado.csproj.AssemblyReference.cache
+D:\Users\0048609\Documents\Desenvolvimento_C_Sharp\mainEmpregado\mainEmpregado\obj\Debug\mainEmpregado.csproj.CoreCompileInputs.cache
+D:\Users\0048609\Documents\Desenvolvimento_C_Sharp\mainEmpregado\mainEmpregado\bin\Debug\mainEmpregado.exe.config
+D:\Users\0048609\Documents\Desenvolvimento_C_Sharp\mainEmpregado\mainEmpregado\bin\Debug\mainEmpregado.exe
+D:\Users\0048609\Documents\Desenvolvimento_C_Sharp\mainEmpregado\mainEmpregado\bin\Debug\mainEmpregado.pdb
+D:\Users\0048609\Documents\Desenvolvimento_C_Sharp\mainEmpregado\mainEmpregado\obj\Debug\mainEmpregado.exe
+D:\Users\0048609\Documents\Desenvolvimento_C_Sharp\mainEmpregado\mainEmpregado\obj\Debug\mainEmpregado.pdb

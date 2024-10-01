@@ -1035,7 +1035,7 @@ SELECT id, nome, cpf, email, telefone FROM Agenda WHERE (id = @id)";
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Data.Design.TypedDataSetGenerator", "17.0.0.0")]
         [global::System.ComponentModel.Design.HelpKeywordAttribute("vs.data.TableAdapter")]
         [global::System.ComponentModel.DataObjectMethodAttribute(global::System.ComponentModel.DataObjectMethodType.Select, false)]
-        public virtual DbAgendaDataSet.AgendaDataTable GetDataBy(string nome) {
+        public virtual DbAgendaDataSet.AgendaDataTable GetDataBy1(string nome) {
             this.Adapter.SelectCommand = this.CommandCollection[2];
             if ((nome == null)) {
                 this.Adapter.SelectCommand.Parameters[0].Value = global::System.DBNull.Value;
